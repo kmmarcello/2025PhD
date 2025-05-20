@@ -1,0 +1,113 @@
+categorized_architecture,argonema_antarcticum_a004_b2,argonema_galeatum_a003_a1,calothrix_elsteri_ccala_953,cyanobium_sp_gca_003248995_1,cyanobium_sp_gca_003249115_1,leptolyngbya_foveolarum,nostoc_cf_commune_so_36,phormidesmis_priestleyi_ulc007,stenomitos_frigidus_ulc18,synechococcus_sp_cs_1324,synechococcus_sp_cs_1325,synechococcus_sp_cs_1326,synechococcus_sp_cs_1327,synechococcus_sp_cs_601,synechococcus_sp_cs_602,synechococcus_sp_cs_603,synechococcus_sp_edmonson_11f2,synechococcus_sp_syn_ace01
+Transmitter - Transmitter,13,13,17,4,3,11,15,15,20,3,4,4,4,3,3,3,3,3
+Receiver - Transmitter - Transmitter,12,7,2,0,0,3,8,6,11,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter - Transmitter,11,7,5,0,0,4,5,9,10,0,0,0,0,0,0,0,0,0
+Sensor - Transmitter - Transmitter,15,15,6,1,1,6,12,14,6,1,1,1,1,1,1,1,1,1
+Receiver - Sensor - Transmitter - Transmitter,2,2,2,0,0,0,3,2,6,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,3,6,0,0,0,2,3,0,5,0,0,0,0,0,0,0,0,0
+Sensor - Transmitter,3,2,5,0,0,1,1,1,5,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Receiver,1,0,2,0,0,0,4,3,4,0,0,0,0,0,0,0,1,0
+Linker - Transmitter - Transmitter,7,5,2,2,2,3,5,0,3,2,1,2,2,2,2,2,2,2
+Sensor - Sensor - Sensor - Transmitter - Transmitter,7,7,2,0,0,3,3,3,3,0,0,0,0,1,1,1,0,1
+Sensor - Transmitter - Transmitter - Receiver,5,3,3,0,0,0,3,1,3,0,0,0,0,0,0,0,1,0
+Transmitter - Transmitter - Transmitter - Adapter - Receiver,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Transmitter - Transmitter,3,3,1,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0
+Transmitter,3,3,2,0,0,2,5,2,2,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Transmitter - Transmitter,2,2,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0
+Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,1,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Transmitter - Receiver,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter - Transmitter - Receiver,3,3,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0
+Linker - Sensor - Transmitter - Transmitter,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Transmitter - Transmitter,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter,0,1,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter - Receiver,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Linker - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Linker - Transmitter - Transmitter - Receiver - Receiver,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Receiver - Transmitter - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1
+Sensor - Linker - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Receiver - Linker,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Transmitter - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Receiver - Transmitter,8,6,4,0,0,2,3,1,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Transmitter,5,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Transmitter - Adaptor - Receiver,4,6,4,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Linker - Transmitter - Transmitter - Receiver,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Transmitter - Transmitter,2,3,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Transmitter - Transmitter - Receiver,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Transmitter,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Sensor - Transmitter - Transmitter,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Linker - Transmitter,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Transmitter,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Transmitter - Receiver,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,1,2,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Sensor - Sensor - Transmitter - Transmitter,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Transmitter - Transmitter - Receiver - Transmitter,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter - Transmitter - Receiver - Transmitter,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Sensor - Transmitter,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Sensor - Transmitter - Transmitter,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Transmitter - Transmitter - Receiver,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Receiver - Receiver,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Transmitter - Transmitter - Adaptor - Receiver,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unknown - Transmitter - Sensor - Transmitter - Transmitter,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Transmitter,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Transmitter - Transmitter - Receiver - Transmitter - Adaptor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Receiver - Sensor - Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Transmitter - Transmitter - Receiver - Receiver,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Receiver - Receiver - Transmitter,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Sensor - Transmitter,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Receiver - Receiver - Receiver - Transmitter - Sensor - Transmitter - Transmitter,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Se sor - Transmitter,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,0,0,3,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0
+Lnker - Transmitter - Transmitter - Receiver,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Linker - Sensor - Transmitter - Transmitter - Receiver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Sensor - Transmitter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Transmitter,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Adaptor - Receiver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Transmitter - Adaptor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Linker - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sensor - Linker - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Receiver,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sensor - Transmitter - Transmitter - Adaptor - Receiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - transmitter,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Transmitter - Transmitter - Adapter - Receiver,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+transmitter - Sensor - Sensor - Transmitter - Transmitter,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Transmitter - Transmitter - Receiver - Transmitter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

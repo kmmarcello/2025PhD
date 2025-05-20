@@ -1,0 +1,1049 @@
+organism_name,categorized_architecture,type,locus,domain_architecture
+Nostoc cf. commune SO-36,Linker - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS21780,HAMP - PAS_4 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Linker - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS27040,HAMP - PAS_4 - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,ANSO36C_RS17170,HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Nostoc cf. commune SO-36,Linker - Transmitter - Transmitter,Classic,ANSO36C_RS09850,HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Linker - Transmitter - Transmitter,Classic,ANSO36C_RS18460,HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Linker - Transmitter - Transmitter,Classic,ANSO36C_RS26115,HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Linker - Transmitter - Transmitter,Classic,ANSO36C_RS29100,HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Linker - Transmitter - Transmitter,Classic,ANSO36C_RS30285,HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS02870,Response_reg - Response_reg - PAS - PAS - GAF - GAF - GAF - PAS_4 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS21345,Response_reg - Response_reg - PAS_4 - PAS - GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS15060,Response_reg - Response_reg - PAS_4 - PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS21755,Response_reg - Response_reg - PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS23205,Response_reg - Response_reg - PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter,Classic,ANSO36C_RS30160,Response_reg - GAF - PAS_3 - PAS_3 - PAS_3 - PAS_4 - HisKA
+Nostoc cf. commune SO-36,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS00260,Response_reg - PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS06665,Response_reg - PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ANSO36C_RS07140,Response_reg - PAS_4 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter,Hybrid,ANSO36C_RS11660,Response_reg - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter,Classic,ANSO36C_RS14030,Response_reg - HisKA
+Nostoc cf. commune SO-36,Receiver - Transmitter,Classic,ANSO36C_RS19420,Response_reg - HisKA
+Nostoc cf. commune SO-36,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS17490,CheB_methylest - MeTrc - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS00405,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS00710,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS08675,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS10235,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS10240,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS14770,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS23630,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Receiver - Transmitter - Transmitter,Hybrid,ANSO36C_RS32870,Response_reg - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Linker - Sensor - Transmitter,Classic,ANSO36C_RS29780,Cache_1 - HAMP - GAF - HisKA
+Nostoc cf. commune SO-36,Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,ANSO36C_RS29685,CHASE3 - HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Nostoc cf. commune SO-36,Sensor - Linker - Transmitter - Transmitter,Classic,ANSO36C_RS12975,Cache_1 - HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Linker - Transmitter - Transmitter,Classic,ANSO36C_RS15775,Cache_1 - HAMP - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS07040,PAS_3 - PAS_3 - PAS_4 - GAF - GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,ANSO36C_RS23180,PAS_3 - PAS_3 - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c - Response_reg - REC
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter,Classic,ANSO36C_RS05140,GAF - GAF - GAF - PHY - HisKA
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter,Classic,ANSO36C_RS09840,PAS_3 - PAS - GAF - GAF - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS00720,CBS - PAS - PAS_4 - PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS02890,PAS_3 - PAS_3 - GAF - PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS15070,GAF - GAF - PAS_4 - PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS07215,GAF - GAF - GAF - PAS_3 - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,ANSO36C_RS29555,PAS_3 - PAS_3 - PAS - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS02045,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS14285,PAS_4 - GAF - GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS25170,GAF - PAS_4 - PAS_3 - HisKA_3 - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS05420,PAS_3 - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter,Classic,ANSO36C_RS00265,PAS_3 - PAS_3- HisKA_2 - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter,Classic,ANSO36C_RS26010,PAS - PAS_4 - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS00245,PAS - PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS05490,GAF - GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS06660,PAS_4 - PAS - HisKA_2 - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS21745,PAS_3 - PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS24890,PAS - PAS_4 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS04685,GAF - PAC - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS33025,PAS_4 - PAS_4 - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,ANSO36C_RS27905,GAF - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Nostoc cf. commune SO-36,Sensor - Transmitter,Classic,ANSO36C_RS18155,CBS - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS01765,GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS04835,PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS07930,GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS11455,GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS16550,PAS_3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS17615,PAS - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS18520,GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS23175,GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS27420,PAS_4 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS28990,CHASE3 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS29705,GAF - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS29785,PAS_4 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS01070,PAS - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS10835,GAF - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS19910,PAS_3 - HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Transmitter,Classic,ANSO36C_RS07725,HATPase_c
+Nostoc cf. commune SO-36,Transmitter,Classic,ANSO36C_RS18160,HATPase_c
+Nostoc cf. commune SO-36,Transmitter,Classic,ANSO36C_RS30500,HATPase_c
+Nostoc cf. commune SO-36,Transmitter,Classic,ANSO36C_RS31105,HATPase_c
+Nostoc cf. commune SO-36,Transmitter,Classic,ANSO36C_RS32090,HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Sensor - Sensor - Transmitter,Classic,ANSO36C_RS09305,Pkinase - GAF - PAS_3 - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS15780,Pkinase - GAF - PAS_4 - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Sensor - Transmitter,Classic,ANSO36C_RS11645,Pkinase - GAF - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Sensor - Transmitter,Classic,ANSO36C_RS23500,S_TKc - GAF - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS00010,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS08405,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS10125,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS10940,HisKA_3 - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS11670,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS11695,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS13585,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS13900,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS15125,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS16505,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS23115,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS24955,HisKA_3 - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS28595,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS32385,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter,Classic,ANSO36C_RS32520,HisKA - HATPase_c
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Adaptor - Receiver,CheA,ANSO36C_RS28000,H-kinase_dim - HATPase_c - CheW - Response_reg
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS08680,HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS11620,HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS19440,HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS21355,HisKA - HATPase_c - Response_reg
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Transmitter - Adaptor,CheA,ANSO36C_RS28615,Hpt - H-kinase_dim - HATPase_c - CheW
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,ANSO36C_RS17350,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Nostoc cf. commune SO-36,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,ANSO36C_RS18950,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Cyanobium sp. GCA_003248995.1,Linker - Sensor - Transmitter - Transmitter,Classic,DCF23_02010,HAMP - PAS - HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Linker - Transmitter - Transmitter,Classic,DCF23_09350,HAMP - HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Linker - Transmitter - Transmitter,Classic,DCF23_02525,HAMP - HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Sensor - Transmitter - Transmitter,Classic,DCF23_03540,PAS - HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Transmitter - Transmitter,Classic,DCF23_06830,HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Transmitter - Transmitter,Classic,DCF23_10685,HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Transmitter - Transmitter,Classic,DCF23_11525,HisKA - HATPase_c
+Cyanobium sp. GCA_003248995.1,Transmitter - Transmitter,Classic,DCF23_12765,HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Linker - Sensor - Transmitter - Transmitter,Classic,DCF24_04815,HAMP - PAS - HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Linker - Transmitter - Transmitter,Classic,DCF24_11575,HAMP - HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Linker - Transmitter - Transmitter,Classic,DCF24_02450,HAMP - HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Sensor - Transmitter - Transmitter,Classic,DCF24_03670,PAS - HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Transmitter - Transmitter,Classic,DCF24_04695,HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Transmitter - Transmitter,Classic,DCF24_10775,HisKA - HATPase_c
+Cyanobium sp. GCA_003249115.1,Transmitter - Transmitter,Classic,DCF24_12055,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Linker - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS12315,HAMP - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Linker - Sensor - Transmitter - Transmitter,Classic,C7B82_RS02635,HAMP - PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Linker - Transmitter - Transmitter,Classic,C7B82_RS13325,HAMP - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Linker - Transmitter - Transmitter,Classic,C7B82_RS06125,HAMP - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Linker - Transmitter - Transmitter,Classic,C7B82_RS05755,HAMP - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Linker - Transmitter - Transmitter - Receiver - Receiver,Hybrid,C7B82_RS24840,HAMP - HisKA - HATPase_c - Response_reg - Response_reg
+Stenomitos frigidus ULC18,Receiver - Receiver - Receiver - Transmitter - Sensor - Transmitter - Transmitter,Unorthodox,C7B82_RS20145,Response_reg - Response_reg - Trans_reg_C - Hpt - PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS17105,Response_reg - Response_reg - PAS - GAF - PAS_4 - PAS_4 - PAS_3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS17360,Response_reg - Response_reg - PAS_4 - PAS - PAS_3 - PAS_3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS09290,Response_reg - Response_reg - GAF - PAS_3 - PAS_3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS21985,Response_reg - Response_reg - GAF - GAF - HisKA - HATPase_c - CYCc
+Stenomitos frigidus ULC18,Receiver - Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS27085,Response_reg - Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS12585,Response_reg - PAS - PAS_4 - GAF - GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS28310,Response_reg - GAF - GAF - PAS_4 - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS16380,Response_reg - PAS_3 - PAS_4 - GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS23255,Response_reg - GAF - PAS_3 - PAS_3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS28970,Response_reg - PAS_3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS25055,Response_reg - PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS04920,Response_reg - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS26930,Response_reg - PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS22135,Response_reg - PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B82_RS23265,Response_reg - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS06555,CheB_methylest - MeTrc - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS28990,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS03310,Response_reg - HisKA_3 - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS18970,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS00045,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Classic,C7B82_RS15665,bZIP_2 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS15670,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS27060,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS06765,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS17110,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS17135,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Receiver - Transmitter - Transmitter,Hybrid,C7B82_RS29250,Response_reg - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Linker - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter,Classic,C7B82_RS00625,Cache_1 - HAMP - PAS - PAS_3 - PAS_3 - PAS_3 - GAF - HisKA
+Stenomitos frigidus ULC18,Sensor - Linker - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS03305,CHASE4 - HAMP - PAS_3 - PAS_4 - PAS_4 - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Linker - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS28505,Cache_1 - HAMP - PAS_4 - PAS_4 - HisKA_3 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Linker - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS12305,Cache_1 - HAMP - PAS_4 - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,C7B82_RS28955,CHASE3 - HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Stenomitos frigidus ULC18,Sensor - Linker - Transmitter,Classic,C7B82_RS17130,Cache_1 - HAMP - HisKA
+Stenomitos frigidus ULC18,Sensor - Linker - Transmitter - Transmitter,Classic,C7B82_RS34465,Cache_1 - HAMP - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Linker - Transmitter - Transmitter,Classic,C7B82_RS02180,Cache_1 - HAMP - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS17115,CBS - CBS - GAF - GAF - PAS_3 - PAS_3 - PAS_4 - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS09695,PAS_4 - PAS_3 - PAS_3 - PAS_3 - PAS - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS00485,GAF - GAF - GAF - PAS_3 - PAS_3 - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS24615,PAS - PAS_4 - PAS_4 - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS22085,PAS_4 - PAS_4 - PAC - PAS_3 - PAS_3 - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS08910,PAS - PAS_3 - PAS_4 - PAS_4 - GAF - GAF - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,C7B82_RS17305,GAF - GAF - PAS_3 - PAS_4 - PAS_4 - HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS05155,PAS - PAS_4 - PAS_4 - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS00255,PAS_3 - PAS_4 - GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS18965,PAS - PAS - PAS_3 - PAS_4 - HisKA_2 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS25165,CBS - CBS - GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS26940,PAS_3 - PAS_4 - PAS_4 - PAS - HisKA_2 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS26185,PAS - PAS - PAS_3 - PAS_3 - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS09300,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS17775,PAS - PAS - PAS_3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS23710,PAS - PAS_3 - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,C7B82_RS02285,GAF - GAF - PAS_3 - HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter,Classic,C7B82_RS06290,GAF - GAF - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS09775,PAS_4 - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS03855,CHASE2 - PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS16185,GAF - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS19805,CHASE2 - PAS - HisKA_3 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS25645,PAS_4 - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS17070,GAF - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS29595,MASE1 - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS29620,GAF - PAS_4 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS11815,PAS_4 - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS22140,PAS_4 - PAS_3 - HisKA_2 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS28995,GAF - GAF - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,C7B82_RS33565,PAS_3 - PAS_4 - HisKA - HATPase_c - Response_reg - Response_reg
+Stenomitos frigidus ULC18,Sensor - Transmitter,Classic,C7B82_RS08550,GAF - HisKA
+Stenomitos frigidus ULC18,Sensor - Transmitter,Classic,C7B82_RS14555,CHASE2 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter,Classic,C7B82_RS26505,cNMP_binding - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter,Classic,C7B82_RS16405,PAS_4 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter,Classic,C7B82_RS22745,CHASE2 - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter,Classic,C7B82_RS05480,GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter,Classic,C7B82_RS27335,GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter,Classic,C7B82_RS13000,PAS - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter,Classic,C7B82_RS04555,CHASE3 - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter,Classic,C7B82_RS08000,GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter,Classic,C7B82_RS29755,GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS20235,PAS_4 - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS00050,CHASE3 - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS17125,CHASE2 - HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Transmitter,Classic,C7B82_RS28780,HATPase_c
+Stenomitos frigidus ULC18,Transmitter,Classic,C7B82_RS12620,HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Receiver,Classic,C7B82_RS34810,HisKA - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Receiver,Classic,C7B82_RS17100,HisKA - EAL
+Stenomitos frigidus ULC18,Transmitter - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B82_RS23290,S_TKc - GAF - PAS_4 - PAS_3 - HisKA_3 - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Sensor - Transmitter - Transmitter,Classic,C7B82_RS03205,Arch_ATPase - GAF - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Sensor - Transmitter - Transmitter,Classic,C7B82_RS25060,S_TKc - GAF - HisKA_2 - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS14070,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS08900,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS09065,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS10970,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS28950,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS20025,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS20075,HisKA_3 - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS25065,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS25085,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS19565,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS02485,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS15755,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS15055,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS25655,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS33045,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS33650,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS16830,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS30490,HisKA_3 - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS22095,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter,Classic,C7B82_RS22150,HisKA - HATPase_c
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS10620,HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS15325,HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Receiver,Hybrid,C7B82_RS27065,HisKA - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Receiver,Unorthodox,C7B82_RS29845,Hpt - HATPase_c - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Receiver - Linker,Classic,C7B82_RS24835,HisKA - HisKA - Response_reg - HAMP
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Transmitter - Adapter - Receiver,CheA,C7B82_RS08980,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Transmitter - Adapter - Receiver,CheA,C7B82_RS22420,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Transmitter - Adapter - Receiver,CheA,C7B82_RS30865,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Stenomitos frigidus ULC18,Transmitter - Transmitter - Transmitter - Sensor - Transmitter - Transmitter,Classic,C7B82_RS02585,MHYT - MHYT - MHYT - GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Linker - Sensor - Transmitter - Transmitter,Classic,DCF25_18425,HAMP - PAS - HisKA - HATPase_c
+Leptolyngbya foveolarum,Linker - Transmitter - Transmitter,Classic,DCF25_06900,HAMP - HisKA - HATPase_c
+Leptolyngbya foveolarum,Linker - Transmitter - Transmitter,Classic,DCF25_08640,HAMP - HisKA - HATPase_c
+Leptolyngbya foveolarum,Linker - Transmitter - Transmitter,Classic,DCF25_02125,HAMP - HisKA - HATPase_c
+Leptolyngbya foveolarum,Lnker - Transmitter - Transmitter - Receiver,Hybrid,DCF25_15930,HAMP - HisKA - HATPase_c - Response_reg
+Leptolyngbya foveolarum,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,DCF25_01290,Response_reg - Response_reg - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Leptolyngbya foveolarum,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF25_03740,Response_reg - Response_reg - GAF - GAF - HisKA - HATPase_c - CYCc
+Leptolyngbya foveolarum,Receiver - Transmitter,Hybrid,DCF25_04630,Response_reg - HATPase_c
+Leptolyngbya foveolarum,Receiver - Transmitter,Hybrid,DCF25_06390,Response_reg - HATPase_c
+Leptolyngbya foveolarum,Receiver - Transmitter - Transmitter,Hybrid,DCF25_15935,Response_reg - HisKA - HATPase_c
+Leptolyngbya foveolarum,Receiver - Transmitter - Transmitter,Hybrid,DCF25_04400,Response_reg - HisKA - HATPase_c
+Leptolyngbya foveolarum,Receiver - Transmitter - Transmitter,Hybrid,DCF25_04405,Response_reg - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Linker - Transmitter - Transmitter,Classic,DCF25_09985,Cache_1 - HAMP - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_17345,PAS_4 - PAS_4 - PAS - PAS - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_21450,CBS - CBS- GAF - PAS - PAS_4 - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF25_16285,CHASE3 - PAS_4 - PAS_4 - PAS_3 - HisKA - HATPase_c - Response_reg
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF25_04915,GAF - GAF - PAS_3 - PAS_3 - HisKA - HATPase_c - Response_reg
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_16840,CBS - GAF - PAS_4 - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_07900,PAS_4 - PAS_4 - GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_08980,PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF25_19665,PAS_4 - PAS_3 - PAS_3 - HisKA - HATPase_c - Response_reg
+Leptolyngbya foveolarum,Sensor - Sensor - Transmitter,Classic,DCF25_09525,PAS_4 - PAS_4- HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_18525,GAF - GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_04390,PAS_4 - PAS_3 - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_05990,PAS_4 - PAS_4 - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF25_09700,PAS_4 - GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF25_09020,PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Leptolyngbya foveolarum,Sensor - Transmitter,Classic,DCF25_09135,GAF - HATPase_c
+Leptolyngbya foveolarum,Sensor - Transmitter - Transmitter,Classic,DCF25_14560,GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Transmitter - Transmitter,Classic,DCF25_18515,GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Transmitter - Transmitter,Classic,DCF25_22300,PAS - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Transmitter - Transmitter,Classic,DCF25_00715,GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Transmitter - Transmitter,Classic,DCF25_07200,GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Sensor - Transmitter - Transmitter,Classic,DCF25_12405,GAF - HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter,Classic,DCF25_12015,HATPase_c
+Leptolyngbya foveolarum,Transmitter,Classic,DCF25_02090,HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_15375,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_15390,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_03295,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_03850,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_20800,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_21355,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_06395,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_00900,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_10625,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_11335,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter,Classic,DCF25_12440,HisKA - HATPase_c
+Leptolyngbya foveolarum,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,DCF25_15230,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Leptolyngbya foveolarum,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,DCF25_01000,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Calothrix elsteri CCALA 953,Linker - Sensor - Transmitter - Transmitter,Classic,CK510_RS21055,HAMP - PAS - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Linker - Transmitter - Transmitter,Classic,CK510_RS15385,HAMP - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Linker - Transmitter - Transmitter,Classic,CK510_RS19860,HAMP - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Linker - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS19485,HAMP - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Receiver - Receiver - Receiver - Receiver - Receiver - Transmitter - Sensor - Transmitter - Transmitter,Unorthodox,CK510_RS17780,Response_reg - Response_reg - Response_reg - Response_reg - Trans_reg_C - Hpt - PAS - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS19980,Response_reg - Response_reg - PAS - PAS - GAF - GAF - GAF - GAF - GAF - PAS_3 - PAS_4 - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Receiver - Sensor - Sensor - Transmitter - Receiver,Hybrid,CK510_RS06310,Response_reg - Response_reg - GAF - GAF- HisKA - HATPase_c - CYCc
+Calothrix elsteri CCALA 953,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS13705,Response_reg - Response_reg - PAS_4 - PAS_4 - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS13735,Response_reg - Response_reg - PAS - PAS - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS07605,Response_reg - Response_reg - PAS_3 - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS18380,Response_reg - Response_reg - PAS - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS15495,Response_reg - PAS_3 - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS15505,Response_reg - Response_reg- PAS - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Sensor - Transmitter - Transmitter,Hybrid,CK510_RS07635,Response_reg - PAS_3 - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Transmitter,Hybrid,CK510_RS12090,Response_reg - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Transmitter,Hybrid,CK510_RS16815,Response_reg - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Transmitter,Hybrid,CK510_RS19480,Response_reg - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Transmitter,Hybrid,CK510_RS21415,Response_reg - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Transmitter - Transmitter,Hybrid,CK510_RS05530,Response_reg - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Receiver - Transmitter - Transmitter,Hybrid,CK510_RS29115,Response_reg - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Se sor - Transmitter,Classic,CK510_RS19290,CBS - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS15750,Cache_1 - HAMP - PAS_4 - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,CK510_RS07595,CHASE3 - HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Linker - Transmitter - Transmitter,Classic,CK510_RS14310,Cache_1 - HAMP - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS10570,CBS - CBS - CBS - CBS - PAS_3 - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS23040,PAS_4 - PAS_4 - PAS_4 - GAF - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Transmitter,Classic,CK510_RS02160,GAF - GAF - GAF - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS26910,PAS_4 - PAS_4 - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS07615,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS17390,PAS_3 - PAS - GAF - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS25500,PAS_4 - PAS_4 - PAS_3 - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS25515,CHASE3 - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS12710,GAF - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS13530,PHY - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS18230,PAS_4 - PAS_4 - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS18235,PAS_4 - PAS_3 - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Transmitter - Transmitter,Classic,CK510_RS09875,PAS - PAS_3 - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS23575,CHASE - GAF - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Transmitter,Classic,CK510_RS01705,GAF - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter,Classic,CK510_RS18955,GAF - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter,Classic,CK510_RS24910,GAF - HisKA
+Calothrix elsteri CCALA 953,Sensor - Transmitter,Classic,CK510_RS29310,GAF - HisKA
+Calothrix elsteri CCALA 953,Sensor - Transmitter,Classic,CK510_RS09570,GAF - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter,Classic,CK510_RS13700,GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter,Classic,CK510_RS13745,GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter,Classic,CK510_RS15370,GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter,Classic,CK510_RS17655,PAS - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter,Classic,CK510_RS21310,GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter,Classic,CK510_RS09125,GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS16810,CHASE2 - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS18355,PAS_3 - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Sensor - Transmitter - Transmitter - Receiver,Hybrid,CK510_RS25815,CHASE2 - HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Transmitter,Classic,CK510_RS03660,HATPase_c
+Calothrix elsteri CCALA 953,Transmitter,Classic,CK510_RS01555,HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Sensor - Sensor - Transmitter,Classic,CK510_RS09560,Pkinase - GAF - GAF - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Sensor - Transmitter - Transmitter,Classic,CK510_RS09565,Pkinase - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS11780,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS12025,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS14345,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS33450,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS15735,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS16025,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS16510,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS17125,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS17360,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS00540,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS23030,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS05585,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS26210,HisKA_3 - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS27510,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS28035,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS07600,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter,Classic,CK510_RS10670,HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Transmitter - Transmitter - Receiver,Hybrid,CK510_RS19320,HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Transmitter - Transmitter - Receiver,Hybrid,CK510_RS33090,HisKA - HATPase_c - Response_reg
+Calothrix elsteri CCALA 953,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,CK510_RS13965,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Calothrix elsteri CCALA 953,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,CK510_RS15785,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Calothrix elsteri CCALA 953,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,CK510_RS06710,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Calothrix elsteri CCALA 953,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,CK510_RS09960,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema antarcticum A004/B2,Linker - Sensor - Transmitter - Transmitter,Classic,LAY57_RS17835,HAMP - PAS - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,LAY57_RS01860,HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Argonema antarcticum A004/B2,Linker - Transmitter,Classic,LAY57_RS04435,HAMP - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS32160,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS03755,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS05395,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS20680,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS21605,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS23755,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter,Classic,LAY57_RS23915,HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS29215,HAMP - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS36160,HAMP - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Receiver - Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Transmitter,Unorthodox,LAY57_RS28060,Response_reg - Response_reg - Response_reg - PAS - PAS - PAS_3 - PAS_3 - PAS_3 - PAS_4 - PAS_4 - PAS_4 - GAF - GAF - HisKA - HATPase_c - Hpt
+Argonema antarcticum A004/B2,Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS17990,Response_reg - Response_reg - PAS_4 - PAS_4 - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Receiver - Sensor - Sensor - Transmitter - Receiver,Hybrid,LAY57_RS13570,Response_reg - Response_reg - GAF - GAF- HisKA - HATPase_c - CYCc
+Argonema antarcticum A004/B2,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS26335,Response_reg - Response_reg - PAS_4 - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS28040,Response_reg - Response_reg - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS09590,Response_reg - Response_reg - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS14520,Response_reg - Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS14515,Response_reg - Response_reg- GAF - GAF - PAS - PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS28840,Response_reg - PAS_3 - GAF - GAF - GAF - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS28045,Response_reg - PAS_3 - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS06845,Response_reg - GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS01855,Response_reg - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY57_RS14505,Response_reg - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter,Hybrid,LAY57_RS28035,Response_reg - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter,Hybrid,LAY57_RS31200,Response_reg - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter,Hybrid,LAY57_RS05765,Response_reg - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter,Hybrid,LAY57_RS05845,Response_reg - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter,Classic,LAY57_RS35000,Response_reg - HisKA
+Argonema antarcticum A004/B2,Receiver - Transmitter,Classic,LAY57_RS15080,Response_reg - HisKA
+Argonema antarcticum A004/B2,Receiver - Transmitter,Hybrid,LAY57_RS15870,Response_reg - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter,Hybrid,LAY57_RS16805,Response_reg - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS17640,CheB_methylest - MeTrc - PAS_4 - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS25490,CheB_methylest - MeTrc - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS28075,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS29825,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS32850,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS02835,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS07490,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS08170,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS10865,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS11145,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS34990,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS16025,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS17970,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Receiver - Transmitter - Transmitter,Hybrid,LAY57_RS19785,Response_reg - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Linker - Transmitter - Transmitter,Classic,LAY57_RS09580,Cache_1 - HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Linker - Transmitter - Transmitter,Classic,LAY57_RS19945,Cache_1 - HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Linker - Transmitter - Transmitter,Classic,LAY57_RS22395,Cache_1 - HAMP - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS05770,Cache_1 - HAMP - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS28030,Cache_1 - HAMP - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Linker - Transmitter - Transmitter - Receiver - Transmitter,Hybrid,LAY57_RS19340,Cache_1 - HAMP - HisKA - HATPase_c - Response_reg - Guanylate_cyc
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS16030,CBS - CBS - CBS - CBS - PAS_3 - PAS_3 - PAS_3 - PAS_3 - PAS_3 - PAS_4 - PAS_4 - PAS - GAF - GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS31780,PAS - PAS - PAS_3 - PAS_3 - PAS_3 - PAS_4 - GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS20350,PAS_3 - PAS_3 - PAS_3 - PAS - PAS_4 - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS23905,PAS - PAS_4 - PAS_4 - PAS_3 - PAS_3 - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS32755,PAS_4 - PAS_4 - PAS_4 - PAS - PAC - GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS28850,GAF - GAF - PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS02020,PAS - PAS_4 - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS13645,PAS_4 - PAS_4 - PAS_4 - PAS_3 - PAS - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS17965,PAS_4 - PAS_4 - PAS_4 - PAS_3 - PAS_3 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS23265,PAS - PAS - PAS_3 - GAF - GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS28505,GAF - GAF - GAF - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS06640,CBS - CBS - CBS - CBS - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS12620,PAS_4 - PAS_4 - PAS - GAF - HisKA_2 - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS11070,GAF - GAF - PAS_4 - PAS_3 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,LAY57_RS01725,CHASE - PAS - PAS - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter,Classic,LAY57_RS06195,PAS - PAS - PAS_4 - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter,Classic,LAY57_RS23515,GAF - GAF - GAF - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS29705,PAS_4 - PAS_4 - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS30610,PAS_3 - GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS02125,GAF - GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS07485,PAS_3 - PAS_3 - PAS - HisKA_2 - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS14245,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS18550,PAS - PAS_4 - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS22245,PAS_4 - PAS_4- PAS - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS31610,PAS_4 - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS32215,MASE1 - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS36115,GAF - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS03940,PAS_3 - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS06615,GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS08705,CHASE - PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS09330,GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS12905,GAF - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS15500,PAS_4 - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS18250,PAS - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS24570,PAS - PAS - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS27735,PAS_4 - PAS_4 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS09795,PAS - GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS11150,CHASE3 - PAS_4 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Sensor - Transmitter - Transmitter - Receiver - Transmitter,Unorthodox,LAY57_RS28065,GAF - PAS_4 - HisKA - HATPase_c - Response_reg - Hpt
+Argonema antarcticum A004/B2,Sensor - Transmitter,Classic,LAY57_RS05400,PAS_3 - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter,Classic,LAY57_RS19705,GAF - HisKA
+Argonema antarcticum A004/B2,Sensor - Transmitter,Classic,LAY57_RS19780,PAC - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS27185,PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS30000,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS32825,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS32830,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS33895,PAS - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS02825,PAS_4 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS03930,PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS05750,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS08965,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS09280,cNMP_binding - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS09545,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS18880,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS21200,CHASE2 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS21880,GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter,Classic,LAY57_RS24010,PAS - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS32835,PAS_4 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS02060,CBS - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS05850,Cache_1 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS08185,CHASE2 - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS16810,GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Transmitter,Classic,LAY57_RS02120,HATPase_c
+Argonema antarcticum A004/B2,Transmitter,Classic,LAY57_RS10170,HATPase_c
+Argonema antarcticum A004/B2,Transmitter,Classic,LAY57_RS12455,HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Receiver,Classic,LAY57_RS22920,HisKA - EAL
+Argonema antarcticum A004/B2,Transmitter - Sensor - Sensor - Transmitter,Classic,LAY57_RS09600,S_TKc - GAF - PAS_4 - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY57_RS02780,S_TKc - GAF - PAS_3 - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS00130,S_TKc - GAF - PAS - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,LAY57_RS02720,S_TKc - GAF - PAS - HisKA - HATPase_c - Response_reg - REC
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter,Classic,LAY57_RS31410,S_TKc - GAF - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter,Classic,LAY57_RS08110,S_TKc - PAS_3 - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter,Classic,LAY57_RS08675,S_TKc - GAF - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter,Classic,LAY57_RS10040,Pkinase - GAF - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter,Classic,LAY57_RS17820,S_TKc - GAF - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY57_RS19930,Pkinase - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY57_RS24360,Pkinase - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS31195,S_TKc - GAF - HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS16700,S_TKc - GAF - HisKA - HisKA - HATPase_c - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS26060,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS29455,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS01720,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS07235,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS10165,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS10445,Hpt - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS14190,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS14330,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS15455,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS16275,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS16630,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS18695,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter,Classic,LAY57_RS23525,HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Receiver,Hybrid,LAY57_RS02150,HisKA - HATPase_c - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Receiver - Receiver,Hybrid,LAY57_RS26340,HisKA - HATPase_c - Response_reg - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY57_RS15865,Pkinase - Arch_ATPase - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY57_RS24580,S_TKc - Arch_ATPase - GAF - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY57_RS29305,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY57_RS33435,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY57_RS16310,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY57_RS18965,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY57_RS00655,Hpt - Htp - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema antarcticum A004/B2,Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor,Hybrid,LAY57_RS17300,HisKA - HisKA - HATPase_c - HATPase_c - Response_reg - PAS_3 - PAS_3 - PAS - PAS_4 - GAF
+Argonema antarcticum A004/B2,Unknown - Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY57_RS17350,S_TKc - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Sensor - Transmitter - Transmitter,Classic,LAY41_RS20170,HAMP - PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,LAY41_RS29045,HAMP - PAS_4 - HisKA - HATPase_c - Response_reg - REC
+Argonema galeatum A003/A1,Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,LAY41_RS30345,HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Argonema galeatum A003/A1,Linker - Transmitter - Transmitter,Classic,LAY41_RS16790,HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Transmitter - Transmitter,Classic,LAY41_RS19415,HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Transmitter - Transmitter,Classic,LAY41_RS22550,HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Transmitter - Transmitter,Classic,LAY41_RS27100,HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Transmitter - Transmitter,Classic,LAY41_RS05170,HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS12255,HAMP - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Receiver - Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Transmitter,Unorthodox,LAY41_RS12230,Response_reg - Response_reg - Response_reg - PAS - PAS - PAS_3 - PAS_4 - PAS_4 - GAF - GAF - HisKA - HATPase_c - Hpt
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS29545,Response_reg - Response_reg - GAF - GAF- PAS - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Sensor - Transmitter - Receiver,Hybrid,LAY41_RS26270,Response_reg - Response_reg - GAF - GAF- HisKA - HATPase_c - CYCc
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS12265,Response_reg - Response_reg - GAF - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS25985,Response_reg - Response_reg - PAS_4 - PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS29550,Response_reg - Response_reg - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS29765,Response_reg - Response_reg - PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS05850,Response_reg - Response_reg - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS07205,Response_reg - PAS_3 - GAF - GAF - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS12245,Response_reg - PAS_3 - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS29240,Response_reg - Response_reg- PAS_4 - PAS_4- PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS29760,Response_reg - GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS30340,Response_reg - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Sensor - Transmitter - Transmitter,Hybrid,LAY41_RS29535,Response_reg - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter,Hybrid,LAY41_RS08925,Response_reg - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter,Hybrid,LAY41_RS12220,Response_reg - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter,Hybrid,LAY41_RS14130,Response_reg - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter,Hybrid,LAY41_RS14860,Response_reg - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter,Hybrid,LAY41_RS24820,Response_reg - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter,Hybrid,LAY41_RS26530,Response_reg - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS15610,CheB_methylest - MeTrc - PAS_4 - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS08930,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS12280,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS19480,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS20695,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS26045,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS26525,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Receiver - Transmitter - Transmitter,Hybrid,LAY41_RS28455,Response_reg - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Linker - Transmitter - Transmitter,Classic,LAY41_RS09920,Cache_1 - HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Linker - Transmitter - Transmitter,Classic,LAY41_RS19420,CHASE4 - HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Linker - Transmitter - Transmitter,Classic,LAY41_RS05815,Cache_1 - HAMP - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS08935,Cache_1 - HAMP - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Linker - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS14855,Cache_1 - HAMP - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Linker - Transmitter - Transmitter - Receiver - Transmitter - Adaptor,Hybrid,LAY41_RS05540,Cache_1 - HAMP - HisKA - HATPase_c - Response_reg - Guanylate_cyc - TPR_2
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS21990,PAS_3 - PAS_3 - PAS_3 - PAS_4 - PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS28705,PAS - PAS_4 - PAS_3 - GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS13590,PAS - PAS - PAS_3 - GAF - GAF - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS14520,CHASE - PAS - PAS - PAS_4 - PAS_4 - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS00645,PAS_4 - PAS_4 - PAS_4 - PAS_3 - GAF - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS06680,PAS_4 - PAS_4 - PAS - GAF - HisKA_2 - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS07195,GAF - GAF - PAS_3 - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS15335,PAS - PAS - PAS_4 - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS16150,PAS_3 - PAS_4 - PAS_4 - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS17810,PAS - PAS_4 - PAS_3 - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS21605,CBS - CBS - CBS - CBS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS31050,GAF - GAF - PAS_4 - PAS_3 - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,LAY41_RS06600,CHASE - PAS - PAS_3 - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter,Classic,LAY41_RS07120,GAF - GAF - GAF - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS31070,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS08025,PAS_3 - GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS09765,PAS_4 - PAS_4 - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS16140,CHASE3 - PAS_3 - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS18140,GAF - GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS23340,PAS_4 - GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS29250,PAS - PAS_4 - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Receiver - Sensor - Sensor,Hybrid,LAY41_RS08955,PAS_4 - PAS_4 - PAS_4 - HisKA - HisKA - HATPase_c - HATPase_c - Response_reg - Response_reg - PAC - GAF
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter,Classic,LAY41_RS01815,PAS - PAS_4 - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS11050,PAS_3 - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS16030,GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS20690,PAS_3 - PAS - HisKA_2 - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS01110,PAS - PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS26395,GAF - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS26685,MASE1 - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS30110,PAS - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS14265,PAS_4 - PAS_4 - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS31955,PAS_4 - GAF - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS06040,PAS - GAF - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Sensor - Transmitter - Transmitter - Receiver - Transmitter,Unorthodox,LAY41_RS12225,GAF - PAS_4 - HisKA - HATPase_c - Response_reg - Hpt
+Argonema galeatum A003/A1,Sensor - Transmitter,Classic,LAY41_RS16660,GAF - HisKA
+Argonema galeatum A003/A1,Sensor - Transmitter,Classic,LAY41_RS22555,PAS_3 - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS11065,PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS11500,PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS12935,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS14295,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS16835,PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS19615,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS19940,PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS21630,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS26515,PAS_4 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS27525,cNMP_binding - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS28360,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS03465,PAS - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS04425,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS04430,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter,Classic,LAY41_RS04890,GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS14550,Cache_1 - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS18160,GAF - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS28745,CBS - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,LAY41_RS26405,PAS_4 - HisKA - HATPase_c - Response_reg - REC
+Argonema galeatum A003/A1,Transmitter,Classic,LAY41_RS09160,HATPase_c
+Argonema galeatum A003/A1,Transmitter,Classic,LAY41_RS02895,HATPase_c
+Argonema galeatum A003/A1,Transmitter,Classic,LAY41_RS32690,HATPase_c
+Argonema galeatum A003/A1,Transmitter - Receiver,Classic,LAY41_RS11765,HisKA - EAL
+Argonema galeatum A003/A1,Transmitter - Sensor - Sensor - Transmitter,Classic,LAY41_RS11880,Pkinase - GAF - PAS_3 - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Sensor - Transmitter,Classic,LAY41_RS05860,S_TKc - GAF - PAS_4 - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS11965,S_TKc - GAF - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,LAY41_RS26465,S_TKc - GAF - PAS_3 - HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS21410,S_TKc - GAF - PAS - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,LAY41_RS26400,S_TKc - GAF - PAS_4 - HisKA - HATPase_c - Response_reg - REC
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter,Classic,LAY41_RS09290,Pkinase - GAF - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter,Classic,LAY41_RS20155,S_TKc - GAF - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter,Classic,LAY41_RS02445,Pkinase - GAF - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter,Classic,LAY41_RS24315,S_TKc - GAF - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY41_RS06610,Pkinase - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY41_RS25085,S_TKc - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Sensor - Transmitter - Transmitter - Receiver,Hybrid,LAY41_RS14125,S_TKc - GAF - HisKA - HATPase_c - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS30620,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS06800,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS08585,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS09165,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS16065,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS17635,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS18135,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS18770,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS20435,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS25360,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS29060,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS29985,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter,Classic,LAY41_RS05105,HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter - Receiver - Receiver,Hybrid,LAY41_RS25980,HisKA - HATPase_c - Response_reg - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Receiver - Receiver - Transmitter,Unorthodox,LAY41_RS29770,HisKA - HATPase_c - Response_reg - Response_reg - Hpt
+Argonema galeatum A003/A1,Transmitter - Transmitter - Sensor - Transmitter,Classic,LAY41_RS11885,Pkinase - Arch_ATPase - GAF - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter - Sensor - Transmitter - Transmitter,Classic,LAY41_RS24825,S_TKc - Arch_ATPase - GAF - HisKA - HATPase_c
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY41_RS10215,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY41_RS13490,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY41_RS14940,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY41_RS31890,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY41_RS00720,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,LAY41_RS28305,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Argonema galeatum A003/A1,Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor,Hybrid,LAY41_RS25045,HisKA - HisKA - HATPase_c - HATPase_c - Response_reg - PAS_3 - PAS_3 - PAS - PAS_4 - GAF
+Phormidesmis priestleyi,Linker - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_00840,HAMP - PAS - PAS - PAS_3 - PAS_3 - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi,Linker - Sensor - Transmitter - Transmitter,Classic,DCF14_01800,HAMP - PAS - HisKA - HATPase_c
+Phormidesmis priestleyi,Linker - Transmitter - Transmitter,Classic,DCF14_11165,HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi,Linker - Transmitter - Transmitter,Classic,DCF14_12135,HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi,Linker - Transmitter - Transmitter,Classic,DCF14_18530,HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,DCF14_12835,Response_reg - Response_reg - PAS_4 - PAS_4 - GAF - GAF - PAS_3 - PAS - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,DCF14_10065,Response_reg - Response_reg - GAF - PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,DCF14_15085,Response_reg - Response_reg - PAS - PAS_4 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,DCF14_22290,Response_reg - Response_reg - PAS_4 - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF14_06940,Response_reg - Response_reg - GAF - GAF - HisKA - HATPase_c - CYCc
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,DCF14_19575,Response_reg - Response_reg - PAS - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,DCF14_05095,Response_reg - Response_reg - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Receiver - Transmitter - Transmitter,Hybrid,DCF14_15080,Response_reg - Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,DCF14_24450,Response_reg - PAS_3 - PAS_4 - GAF - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Sensor - Transmitter - Transmitter,Hybrid,DCF14_00510,Response_reg - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF14_07970,CheB_methylest - MeTrc - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Receiver - Transmitter - Transmitter,Hybrid,DCF14_00360,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Transmitter - Transmitter,Hybrid,DCF14_00930,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Transmitter - Transmitter,Hybrid,DCF14_15685,Response_reg - HisKA_3 - HATPase_c
+Phormidesmis priestleyi,Receiver - Transmitter - Transmitter,Hybrid,DCF14_16850,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi,Receiver - Transmitter - Transmitter,Hybrid,DCF14_04225,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Linker - Sensor - Transmitter - Transmitter,Classic,DCF14_14225,Cache_1 - HAMP - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Linker - Sensor - Transmitter - Transmitter,Classic,DCF14_15070,Cache_1 - HAMP - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF14_15680,Cache_1 - HAMP - PAS_4 - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Sensor - Linker - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,DCF14_09295,CHASE3 - HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Phormidesmis priestleyi,Sensor - Linker - Transmitter - Transmitter,Classic,DCF14_19945,CHASE4 - HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_15310,GAF - GAF - GAF - PAS_4 - PAS_4 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_16855,GAF - PAS - PAS_3 - HisKA_2 - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF14_04815,PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter,Classic,DCF14_16950,GAF - PAS - HisKA
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter,Classic,DCF14_02920,GAF - GAF - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_09870,PAC - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_16880,GAF - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_01515,PAS - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_19565,GAF - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_22815,PAS - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_05085,PAS_3 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_07935,MASE1 - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF14_17180,PAS - PAS - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,DCF14_21505,CBS - CBS - HisKA - HATPase_c - Response_reg - REC
+Phormidesmis priestleyi,Sensor - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Receiver,Hybrid,DCF14_22640,PAS_4 - PAS_4 - HisKA - HisKA - HATPase_c - HATPase_c - Response_reg - Response_reg
+Phormidesmis priestleyi,Sensor - Transmitter,Classic,DCF14_19610,CHASE2 - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter,Classic,DCF14_24180,CHASE2 - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_09450,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_11230,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_11985,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_14210,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_18295,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_19000,CHASE3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_20335,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_03970,Cache_1 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_24205,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_06695,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_06900,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_07455,PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter,Classic,DCF14_08010,PAS_4 - HisKA_2 - HATPase_c
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter - Adaptor - Receiver,CheA,DCF14_10905,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Phormidesmis priestleyi,Sensor - Transmitter - Transmitter - Receiver,Hybrid,DCF14_20350,PAS - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Transmitter,Classic,DCF14_10845,HATPase_c
+Phormidesmis priestleyi,Transmitter,Classic,DCF14_21470,HATPase_c
+Phormidesmis priestleyi,Transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,DCF14_00340,S_TKc - GAF - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Sensor - Transmitter - Transmitter,Classic,DCF14_15695,Pkinase - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_09680,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_13790,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_14870,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_15000,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_15305,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_15765,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_16285,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_01640,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_16955,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_17845,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_22485,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_22965,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_05180,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter,Classic,DCF14_07520,HisKA - HATPase_c
+Phormidesmis priestleyi,Transmitter - Transmitter - Receiver,Hybrid,DCF14_00935,HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Transmitter - Transmitter - Receiver,Hybrid,DCF14_17110,HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Transmitter - Transmitter - Receiver,Hybrid,DCF14_02790,HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,DCF14_14970,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Phormidesmis priestleyi,Transmitter - Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,DCF14_04955,Hpt - Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Synechococcus sp. SynAce01,Linker - Sensor - Transmitter - Transmitter,Classic,BM449_RS10415,HAMP - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. SynAce01,Linker - Transmitter - Transmitter,Classic,BM449_RS02750,HAMP - HisKA - HATPase_c
+Synechococcus sp. SynAce01,Linker - Transmitter - Transmitter,Classic,BM449_RS03850,HAMP - HisKA - HATPase_c
+Synechococcus sp. SynAce01,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,BM449_RS05345,Response_reg - Response_reg - GAF - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. SynAce01,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,BM449_RS05335,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. SynAce01,Sensor - Transmitter - Transmitter,Classic,BM449_RS08490,PAS - HisKA - HATPase_c
+Synechococcus sp. SynAce01,Transmitter - Transmitter,Classic,BM449_RS01535,HisKA - HATPase_c
+Synechococcus sp. SynAce01,Transmitter - Transmitter,Classic,BM449_RS02485,HisKA - HATPase_c
+Synechococcus sp. SynAce01,Transmitter - Transmitter,Classic,BM449_RS08170,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS28780,Response_reg - Response_reg - PAS_4 - PAS_4 - GAF - GAF - PAS_3 - PAS - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS13755,Response_reg - Response_reg - GAF - PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS08770,Response_reg - Response_reg - PAS - PAS_4 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS15770,Response_reg - Response_reg - PAS_4 - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS12155,Response_reg - Response_reg - GAF - GAF - HisKA - HATPase_c - CYCc
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS21075,Response_reg - Response_reg - PAS - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS08270,Response_reg - Response_reg - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Receiver - Transmitter - Transmitter,Hybrid,C7B65_RS08765,Response_reg - Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS17515,Response_reg - PAS_3 - PAS_4 - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Sensor - Transmitter - Transmitter,Hybrid,C7B65_RS01065,Response_reg - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Sensor - Transmitter - Transmitter,Classic,C7B65_RS05805,MASE1 - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter,Classic,C7B65_RS23845,CHASE2 - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS05840,CheB_methylest - MeTrc - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Transmitter,Hybrid,C7B65_RS00645,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Transmitter,Hybrid,C7B65_RS01215,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Transmitter,Hybrid,C7B65_RS18165,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Transmitter,Classic,C7B65_RS07510,HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Transmitter,Hybrid,C7B65_RS08675,Response_reg - HisKA_3 - HATPase_c
+Phormidesmis priestleyi ULC007,Receiver - Transmitter - Transmitter,Hybrid,C7B65_RS10520,Response_reg - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS00735,HAMP - PAS - PAS - PAS_3 - PAS_3 - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS08995,GAF - GAF - GAF - PAS_4 - PAS_4 - PAS_3 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS16190,Cache_1 - HAMP - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS18170,GAF - PAS - PAS_3 - HisKA_2 - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS08755,Cache_1 - HAMP - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS07990,PAS_3 - PAS_3 - PAS_3 - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS08670,Cache_1 - HAMP - PAS_4 - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver - Receiver,Hybrid,C7B65_RS04420,CHASE3 - HAMP - GAF - HisKA - HATPase_c - Response_reg - Response_reg - Response_reg
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver - transmitter,Unorthodox,C7B65_RS27410,PAS - PAC - GAF - HisKA - HATPase_c - Response_reg - Hpt
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter,Classic,C7B65_RS17205,GAF - GAF - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter,Classic,C7B65_RS18265,GAF - PAS - HisKA
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS13745,GAF - PHY - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS16175,GAF - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS18195,GAF - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS03000,PAS - PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS03285,HAMP - PAS - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS21065,GAF - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS21310,CHASE4 - HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS23690,PAS - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS08260,PAS_3 - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS18730,PAS - PAS - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter - Receiver - Receiver,Hybrid,C7B65_RS22260,CBS - CBS - HisKA - HATPase_c - Response_reg - REC
+Phormidesmis priestleyi ULC007,Sensor - Sensor - Transmitter - Transmitter - Transmitter - Transmitter - Receiver - Receiver,Hybrid,C7B65_RS17355,PAS_4 - PAS_4 - HisKA - HisKA - HATPase_c - HATPase_c - Response_reg - Response_reg
+Phormidesmis priestleyi ULC007,Sensor - Transmitter,Classic,C7B65_RS21110,CHASE2 - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS11915,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS12115,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS18430,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS19395,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS20070,HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS20500,CHASE3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS04270,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS22630,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS22695,HAMP - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS05325,PAS_4 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS05880,PAS_4 - HisKA_2 - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS23820,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS09630,GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter,Classic,C7B65_RS28750,Cache_1 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Sensor - Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS18415,PAS - HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Transmitter,Classic,C7B65_RS04915,HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter,Classic,C7B65_RS22300,HATPase_c
+Phormidesmis priestleyi ULC007,transmitter - Sensor - Sensor - Transmitter - Transmitter,Classic,C7B65_RS01235,S_TKc - GAF - PAS_3 - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Sensor - Transmitter - Transmitter,Classic,C7B65_RS15495,Pkinase - GAF - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS11570,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS11725,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS15425,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS15575,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS16440,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS17755,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS03125,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS04040,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS05390,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS23805,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS24290,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS25385,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS08685,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS08990,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter,Classic,C7B65_RS09475,HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS00640,HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS18660,HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter - Receiver,Hybrid,C7B65_RS07150,HisKA - HATPase_c - Response_reg
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter - Transmitter - Adapter - Receiver,CheA,C7B65_RS04975,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter - Transmitter - Adaptor - Receiver,CheA,C7B65_RS09575,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Phormidesmis priestleyi ULC007,Transmitter - Transmitter - Transmitter - Transmitter - Adapter - Receiver,CheA,C7B65_RS08130,Hpt - Htp - H-kinase_dim - HATPase_c - CheW - Response_reg
+Synechococcus sp. CS-1324,Linker - Sensor - Transmitter - Transmitter,Classic,KQ306_07230,HAMP - PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1324,Linker - Transmitter - Transmitter,Classic,KQ306_06690,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1324,Linker - Transmitter - Transmitter,Classic,KQ306_11760,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1324,Sensor - Transmitter - Transmitter,Classic,KQ306_03210,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1324,Transmitter - Transmitter,Classic,KQ306_03570,HisKA - HATPase_c
+Synechococcus sp. CS-1324,Transmitter - Transmitter,Classic,KQ306_05195,HisKA - HATPase_c
+Synechococcus sp. CS-1324,Transmitter - Transmitter,Classic,KQ306_09180,HisKA - HATPase_c
+Synechococcus sp. CS-1327,Linker - Sensor - Transmitter - Transmitter,Classic,KQ308_12540,HAMP - PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1327,Linker - Transmitter - Transmitter,Classic,KQ308_06480,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1327,Linker - Transmitter - Transmitter,Classic,KQ308_11930,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1327,Sensor - Transmitter - Transmitter,Classic,KQ308_05055,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1327,Transmitter - Transmitter,Classic,KQ308_09410,HisKA - HATPase_c
+Synechococcus sp. CS-1327,Transmitter - Transmitter,Classic,KQ308_00385,HisKA - HATPase_c
+Synechococcus sp. CS-1327,Transmitter - Transmitter,Classic,KQ308_00550,HisKA - HATPase_c
+Synechococcus sp. CS-1327,Transmitter - Transmitter,Classic,KQ308_00940,HisKA - HATPase_c
+Synechococcus sp. CS-1325,Linker - Sensor - Transmitter - Transmitter,Classic,KQ313_13525,HAMP - PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1326,Linker - Sensor - Transmitter - Transmitter,Classic,KQ307_01935,HAMP - PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1325,Linker - Transmitter - Transmitter,Classic,KQ313_03325,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1326,Linker - Transmitter - Transmitter,Classic,KQ307_00995,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1326,Linker - Transmitter - Transmitter,Classic,KQ307_05435,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-1325,Sensor - Transmitter - Transmitter,Classic,KQ313_06070,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1326,Sensor - Transmitter - Transmitter,Classic,KQ307_04860,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-1325,Transmitter - Transmitter,Classic,KQ313_04690,HisKA - HATPase_c
+Synechococcus sp. CS-1325,Transmitter - Transmitter,Classic,KQ313_04855,HisKA - HATPase_c
+Synechococcus sp. CS-1325,Transmitter - Transmitter,Classic,KQ313_05320,HisKA - HATPase_c
+Synechococcus sp. CS-1325,Transmitter - Transmitter,Classic,KQ313_10815,HisKA - HATPase_c
+Synechococcus sp. CS-1326,Transmitter - Transmitter,Classic,KQ307_02915,HisKA - HATPase_c
+Synechococcus sp. CS-1326,Transmitter - Transmitter,Classic,KQ307_03080,HisKA - HATPase_c
+Synechococcus sp. CS-1326,Transmitter - Transmitter,Classic,KQ307_03475,HisKA - HATPase_c
+Synechococcus sp. CS-1326,Transmitter - Transmitter,Classic,KQ307_04240,HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Linker - Sensor - Transmitter - Transmitter,Classic,KBZ01_RS08050,HAMP - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Linker - Transmitter - Transmitter,Classic,KBZ01_RS16635,HAMP - HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Linker - Transmitter - Transmitter,Classic,KBZ01_RS04690,HAMP - HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Sensor - Transmitter - Transmitter,Classic,KBZ01_RS05460,PAS_4 - HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Sensor - Transmitter - Transmitter - Receiver,Hybrid,KBZ01_RS03315,PAS - HisKA - HATPase_c - Response_reg
+Synechococcus sp. Edmonson 11F2,Transmitter - Transmitter,Classic,KBZ01_RS11890,HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Transmitter - Transmitter,Classic,KBZ01_RS05175,HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Transmitter - Transmitter,Classic,KBZ01_RS09625,HisKA - HATPase_c
+Synechococcus sp. Edmonson 11F2,Transmitter - Transmitter - Receiver,Hybrid,KBZ01_RS03310,HisKA - HATPase_c - Response_reg
+Synechococcus sp. Edmonson 11F2,Transmitter - Transmitter - Receiver - Transmitter,Unorthodox,KBZ01_RS03335,HisKA - HATPase_c - Response_reg - Hpt
+Synechococcus sp. CS-602,Linker - Sensor - Transmitter - Transmitter,Classic,KQ302_09420,HAMP - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. CS-602,Linker - Transmitter - Transmitter,Classic,KQ302_00470,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-602,Linker - Transmitter - Transmitter,Classic,KQ302_04010,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-602,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,KQ302_06845,Response_reg - Response_reg - GAF - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. CS-602,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,KQ302_06835,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. CS-602,Sensor - Transmitter - Transmitter,Classic,KQ302_05315,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-602,Transmitter - Transmitter,Classic,KQ302_00770,HisKA - HATPase_c
+Synechococcus sp. CS-602,Transmitter - Transmitter,Classic,KQ302_02900,HisKA - HATPase_c
+Synechococcus sp. CS-602,Transmitter - Transmitter,Classic,KQ302_03440,HisKA - HATPase_c
+Synechococcus sp. CS-603,Linker - Sensor - Transmitter - Transmitter,Classic,KQ299_11880,HAMP - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. CS-603,Linker - Transmitter - Transmitter,Classic,KQ299_08055,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-603,Linker - Transmitter - Transmitter,Classic,KQ299_09165,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-603,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,KQ299_09900,Response_reg - Response_reg - GAF - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. CS-603,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,KQ299_09890,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. CS-603,Sensor - Transmitter - Transmitter,Classic,KQ299_13285,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-603,Transmitter - Transmitter,Classic,KQ299_05810,HisKA - HATPase_c
+Synechococcus sp. CS-603,Transmitter - Transmitter,Classic,KQ299_09435,HisKA - HATPase_c
+Synechococcus sp. CS-603,Transmitter - Transmitter,Classic,KQ299_12970,HisKA - HATPase_c
+Synechococcus sp. CS-601,Linker - Sensor - Transmitter - Transmitter,Classic,KQ301_10935,HAMP - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. CS-601,Linker - Transmitter - Transmitter,Classic,KQ301_06985,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-601,Linker - Transmitter - Transmitter,Classic,KQ301_12575,HAMP - HisKA - HATPase_c
+Synechococcus sp. CS-601,Receiver - Receiver - Sensor - Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter,Hybrid,KQ301_01845,Response_reg - Response_reg - GAF - PAS_3 - PAS_4 - PAS_4 - PAS_4 - HisKA - HATPase_c
+Synechococcus sp. CS-601,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,KQ301_01835,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. CS-601,Sensor - Transmitter - Transmitter,Classic,KQ301_10390,PAS - HisKA - HATPase_c
+Synechococcus sp. CS-601,Transmitter - Transmitter,Classic,KQ301_04835,HisKA - HATPase_c
+Synechococcus sp. CS-601,Transmitter - Transmitter,Classic,KQ301_07255,HisKA - HATPase_c
+Synechococcus sp. CS-601,Transmitter - Transmitter,Classic,KQ301_10075,HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_10606,2CSK_N - HisKA - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter,Classic,ECDMJLHF_03346,Cache_1 - HAMP - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter,Classic,ECDMJLHF_03838,Cache_1 - HAMP - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter - Transmitter,Classic,ECDMJLHF_01887,Cache_1 - HAMP - HisKA - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter - Transmitter,Classic,ECDMJLHF_02501,Cache_1 - HAMP - HisKA - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter - Transmitter,Classic,ECDMJLHF_02638,Cache_1 - HAMP - HisKA - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter - Transmitter,Classic,ECDMJLHF_03224,Cache_1 - HAMP - HisKA - HATPase_c
+Timeviella sp.,Sensor - Linker - Transmitter - Transmitter,Classic,ECDMJLHF_14072,Cache_1 - HAMP - HisKA_2 - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_05780,Cache_1 - HisKA - HATPase_c
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_10846,CHASE3 - GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Linker - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_12047,CHASE3 - HAMP - PAS - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_00078,CHASE3 - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_06855,CHASE3 - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter,Classic,ECDMJLHF_08546,CHASE4 - HisKA
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_07453,CHASE4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Receiver - Transmitter - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_04673,CheB_methylest - MeTrc - PAS_4 - PAS - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter,Classic,ECDMJLHF_02001,GAF - HATPase_c
+Timeviella sp.,Sensor - Transmitter,Classic,ECDMJLHF_11460,GAF - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_02608,GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_02755,GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_03867,GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_04212,GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_04760,GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_04844,GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_02943,GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_04786,GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_00883,GAF - PAS - HisKA - HATPase_c
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_01826,GAF - PAS - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_07414,GAF - PAS_3 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter,Classic,ECDMJLHF_07175,GAF - PAS_3 - HWE_HK
+Timeviella sp.,Sensor - Sensor - Transmitter,Classic,ECDMJLHF_10570,GAF - PAS_3 - HWE_HK
+Timeviella sp.,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_05433,GAF - PAS_3 - PAS_4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_05895,GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_02372,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_03477,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_05696,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_06836,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_07041,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_08825,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_09246,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_09971,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_10005,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_10051,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_10109,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_10643,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_10931,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Transmitter - Transmitter,Classic,ECDMJLHF_11119,HAMP - HisKA - HATPase_c
+Timeviella sp.,Linker - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_07407,HAMP - PAS - HisKA - HATPase_c
+Timeviella sp.,Linker - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_01823,HAMP - PAS_3 - HisKA - HATPase_c
+Timeviella sp.,Linker - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_05791,HAMP - PAS_4 - HisKA - HATPase_c
+Timeviella sp.,Transmitter,Classic,ECDMJLHF_02714,HATPase_c
+Timeviella sp.,Transmitter,Classic,ECDMJLHF_03923,HATPase_c
+Timeviella sp.,Transmitter,Classic,ECDMJLHF_05037,HATPase_c
+Timeviella sp.,Transmitter,Classic,ECDMJLHF_06187,HATPase_c
+Timeviella sp.,Transmitter,Classic,ECDMJLHF_12559,HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_11924,His_kinase - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_12332,His_kinase - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_01818,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_01984,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_02466,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_02765,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_03074,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_03511,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_03533,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_03688,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_04649,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_04784,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_04999,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_05462,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_05850,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_06312,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_07136,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_08317,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_08889,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_08996,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_09995,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_11022,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_11323,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_13400,HisKA - HATPase_c
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_05352,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_07233,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_08235,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_08243,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_09414,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_09662,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_10557,HisKA - HATPase_c - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Receiver - Transmitter,Unorthodox,ECDMJLHF_11378,HisKA - HATPase_c - Response_reg - Hpt
+Timeviella sp.,Transmitter - Transmitter - Receiver - Receiver,Hybrid,ECDMJLHF_01964,HisKA - HATPase_c - Response_reg - REC
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_01545,HisKA_3 - HATPase_c
+Timeviella sp.,Transmitter - Transmitter,Classic,ECDMJLHF_13505,HisKA_3 - HATPase_c
+Timeviella sp.,Transmitter - Linker - Transmitter - Adapter,CheA,ECDMJLHF_10980,Hpt - H-kinase_dim - HATPase_c - CheW
+Timeviella sp.,Transmitter - Linker - Transmitter - Adapter - Receiver,CheA,ECDMJLHF_02366,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Timeviella sp.,Transmitter - Linker - Transmitter - Adapter - Receiver,CheA,ECDMJLHF_04596,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Timeviella sp.,Transmitter - Linker - Transmitter - Adapter - Receiver,CheA,ECDMJLHF_04742,Hpt - H-kinase_dim - HATPase_c - CheW - Response_reg
+Timeviella sp.,Transmitter - Transmitter - Adapter - Receiver,CheA,ECDMJLHF_08440,Hpt - HATPase_c - CheW - Response_reg
+Timeviella sp.,Sensor - Transmitter,Classic,ECDMJLHF_07671,MASE1 - HisKA
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_09361,MASE1 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_11843,PAS - GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_07631,PAS - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_09215,PAS - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_11117,PAS - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_10915,PAS - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_09113,PAS - HisKA_2 - HATPase_c
+Timeviella sp.,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_00270,PAS - PAS_3 - GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_10115,PAS - PAS_4 - HisKA - HATPase_c
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_03636,PAS - PAS_4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver - Transmitter,Unorthodox,ECDMJLHF_12255,PAS - PAS_4 - HisKA - HATPase_c - Response_reg - Hpt
+Timeviella sp.,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_00194,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_04645,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Sensor - Sensor - Sensor - Transmitter - Receiver,Classic,ECDMJLHF_12022,PAS_2 - GAF - PHY - HWE_HK - REC
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_05952,PAS_3 - GAF - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_11374,PAS_3 - HisKA - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_08547,PAS_3 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_08860,PAS_3 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_09332,PAS_3 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter,Classic,ECDMJLHF_11759,PAS_3 - HWE_HK
+Timeviella sp.,Sensor - Transmitter,Classic,ECDMJLHF_12260,PAS_3 - HWE_HK
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_07725,PAS_3 - PAS_4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_00495,PAS_3 - PAS_4 - PAS - GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_09880,PAS_4 - Fez1 - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_01702,PAS_4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_08323,PAS_4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_08968,PAS_4 - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Transmitter - Receiver,Classic,ECDMJLHF_09745,PAS_4 - HisKA - Response_reg
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_13731,PAS_4 - HisKA_2 - HATPase_c
+Timeviella sp.,Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_10852,PAS_4 - HWE_HK - HATPase_c
+Timeviella sp.,Sensor - Sensor - Transmitter,Classic,ECDMJLHF_07450,PAS_4 - PAS - HWE_HK
+Timeviella sp.,Sensor - Sensor - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ECDMJLHF_10567,PAS_4 - PAS_3 - GAF - HisKA - HATPase_c - Response_reg
+Timeviella sp.,Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_13513,PAS_4 - PAS_3 - HisKA_2 - HATPase_c
+Timeviella sp.,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ECDMJLHF_02238,Response_reg - GAF - HisKA - HATPase_c
+Timeviella sp.,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ECDMJLHF_03216,Response_reg - GAF - HisKA - HATPase_c
+Timeviella sp.,Receiver - Sensor - Transmitter - Transmitter - Transmitter,Hybrid,ECDMJLHF_05890,Response_reg - GAF - HisKA - HATPase_c - Guanylate_cyc
+Timeviella sp.,Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,ECDMJLHF_04643,Response_reg - GAF - PAS_4 - HisKA - HATPase_c
+Timeviella sp.,Receiver - Transmitter,Hybrid,ECDMJLHF_10849,Response_reg - HATPase_c
+Timeviella sp.,Receiver - Transmitter - Transmitter,Hybrid,ECDMJLHF_00080,Response_reg - HisKA - HATPase_c
+Timeviella sp.,Receiver - Transmitter - Transmitter,Hybrid,ECDMJLHF_00081,Response_reg - HisKA - HATPase_c
+Timeviella sp.,Receiver - Transmitter - Transmitter,Hybrid,ECDMJLHF_07350,Response_reg - HisKA - HATPase_c
+Timeviella sp.,Receiver - Transmitter - Transmitter,Hybrid,ECDMJLHF_08438,Response_reg - HisKA - HATPase_c
+Timeviella sp.,Receiver - Transmitter - Transmitter,Hybrid,ECDMJLHF_06857,Response_reg - HisKA_2 - HATPase_c
+Timeviella sp.,Receiver - Transmitter - Transmitter,Hybrid,ECDMJLHF_01704,Response_reg - HisKA_3 - HATPase_c
+Timeviella sp.,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ECDMJLHF_04785,Response_reg - PAS - HisKA - HATPase_c
+Timeviella sp.,Receiver - Sensor - Sensor - Transmitter - Transmitter,Hybrid,ECDMJLHF_00196,Response_reg - PAS_3 - PAS_4 - HisKA - HATPase_c
+Timeviella sp.,Receiver - Sensor - Transmitter - Transmitter,Hybrid,ECDMJLHF_08437,Response_reg - PAS_4 - HisKA - HATPase_c
+Timeviella sp.,Transmitter - Sensor - Sensor - Sensor - Transmitter - Transmitter,Classic,ECDMJLHF_01824,S_TKc - GAF - PAS_3 - PAS_4 - HisKA - HATPase_c
