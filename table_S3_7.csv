@@ -1,0 +1,690 @@
+organism_name,location_temp,locus,domain_architecture
+Phormidesmis priestleyi BC1401,"cold, non-Antarctic",A8707_RS00380,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidesmis priestleyi BC1401,"cold, non-Antarctic",A8707_RS29690,PHY - HisKA
+Nostoc sp. KVJ20,"cold, non-Antarctic",A4S05_RS29045,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Trichormus sp. NMC-1,"cold, non-Antarctic",A9Y75_RS09505,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Trichormus sp. NMC-1,"cold, non-Antarctic",A9Y75_RS20120,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena sp. BC1403,"cold, non-Antarctic",CQ839_RS06215,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Pseudanabaena sp. BC1403,"cold, non-Antarctic",CQ839_RS09615,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Pseudanabaena sp. BC1403,"cold, non-Antarctic",CQ839_RS11675,PAS_2 - GAF - PHY - HisKA - HATPase_c
+filamentous cyanobacterium Phorm 6,"cold, non-Antarctic",C7B67_12450,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+filamentous cyanobacterium Phorm 6,"cold, non-Antarctic",C7B67_05435,PAS_2 - GAF - PHY - HATPase_c
+Merismopedia glauca CCAP 1448/3,"cold, non-Antarctic",C7B64_RS11740,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pleurocapsa sp. CCALA 161,"cold, non-Antarctic",C7B62_RS00570,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_QC_C_20070703_M131,"cold, non-Antarctic",EWV85_02775,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M_QC_C_20170808_M9Col,"cold, non-Antarctic",EWV68_15085,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M_QC_C_20170808_M2Col,"cold, non-Antarctic",EWV67_18750,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M_OC_Ca_00000000_S217Cul,"cold, non-Antarctic",EWV83_23065,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M_OC_Ca_00000000_C217Col,"cold, non-Antarctic",EWV66_14840,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Ma_QC_C_20070823_S18D,"cold, non-Antarctic",EWV65_12385,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. Msp_OC_L_20101000_S702,"cold, non-Antarctic",EWV60_00895,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_SC_T_19800800_S464,"cold, non-Antarctic",EWV81_05325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_QC_Ch_20071001_S25D,"cold, non-Antarctic",EWV57_00515,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_QC_Ch_20071001_M135,"cold, non-Antarctic",EWV90_13985,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii Mw_QC_S_20081001_S30D,"cold, non-Antarctic",EWV75_18100,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii Mw_QC_B_20070930_S4D,"cold, non-Antarctic",EWV73_00250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii Mw_QC_B_20070930_S4,"cold, non-Antarctic",EWV89_05200,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii Mw_QC_S_20081001_S30,"cold, non-Antarctic",EWV74_02695,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Mf_QC_C_20070823_S10D,"cold, non-Antarctic",EWV45_11595,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Mf_QC_C_20070823_S10,"cold, non-Antarctic",EWV72_09295,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Mf_QC_C_20070823_S20T,"cold, non-Antarctic",EWV44_02405,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Mf_QC_C_20070823_S20,"cold, non-Antarctic",EWV70_14615,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Mf_QC_C_20070823_S20D,"cold, non-Antarctic",EWV71_06620,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0315A,"cold, non-Antarctic",BMF77_RS23015,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0352,"cold, non-Antarctic",FJR06_RS22405,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0406,"cold, non-Antarctic",FJR09_RS01610,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W13-16,"cold, non-Antarctic",GPI97_17985,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W13-18,"cold, non-Antarctic",GPJ00_05150,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W13-15,"cold, non-Antarctic",GPI99_18210,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W13-13,"cold, non-Antarctic",GPI98_18225,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W13-11,"cold, non-Antarctic",GPJ21_02945,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa SX13-11,"cold, non-Antarctic",GPJ24_09330,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W11-06,"cold, non-Antarctic",GPJ13_00905,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa W11-03,"cold, non-Antarctic",GPJ33_00750,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa S11-05,"cold, non-Antarctic",GPJ31_01260,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa S11-01,"cold, non-Antarctic",GPJ12_16170,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LG13-13,"cold, non-Antarctic",GPJ19_01605,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LL11-07,"cold, non-Antarctic",GPJ34_09440,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LL13-03,"cold, non-Antarctic",GPJ22_12900,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LL13-06,"cold, non-Antarctic",GPJ01_16570,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LG13-12,"cold, non-Antarctic",GPI93_01970,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LG13-11,"cold, non-Antarctic",GPI95_05375,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LG11-05,"cold, non-Antarctic",GPJ26_01985,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LG13-03,"cold, non-Antarctic",GPI94_02700,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa LE13-04,"cold, non-Antarctic",GPJ25_02665,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa L211-101,"cold, non-Antarctic",GPJ11_10290,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa L211-11,"cold, non-Antarctic",GPJ28_10825,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa L211-07,"cold, non-Antarctic",GPJ10_08925,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa K13-10,"cold, non-Antarctic",GPI91_24270,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa K13-07,"cold, non-Antarctic",GPJ17_03780,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa K13-05,"cold, non-Antarctic",GPI90_24395,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-11,"cold, non-Antarctic",GPJ06_01385,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-12,"cold, non-Antarctic",GPJ02_09225,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-10,"cold, non-Antarctic",GPJ05_12770,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-05,"cold, non-Antarctic",GPJ23_10045,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-07,"cold, non-Antarctic",GPJ07_01635,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-01,"cold, non-Antarctic",GPJ03_09320,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G11-09,"cold, non-Antarctic",GPJ35_12000,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G11-06,"cold, non-Antarctic",GPJ15_19195,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G11-06,"cold, non-Antarctic",GPJ15_19195,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G11-01,"cold, non-Antarctic",GPJ14_10635,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa BS13-10,"cold, non-Antarctic",GPJ20_15585,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G11-04,"cold, non-Antarctic",GPJ16_12785,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa F13-15,"cold, non-Antarctic",GPJ18_07400,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa BS13-02,"cold, non-Antarctic",GPI96_19285,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa BS11-05,"cold, non-Antarctic",GPJ30_10820,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS2,"cold, non-Antarctic",HWQ36_06160,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS2,"cold, non-Antarctic",HWQ36_13365,GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS2,"cold, non-Antarctic",HWQ36_13790,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS1,"cold, non-Antarctic",HWQ35_31615,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS1,"cold, non-Antarctic",HWQ35_33330,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS1,"cold, non-Antarctic",HWQ35_09825,GAF - PHY - HisKA - HATPase_c
+Anabaena sp. 54,"cold, non-Antarctic",HEQ36_09355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Anabaena sp. 54,"cold, non-Antarctic",HEQ36_15115,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcystis sp. M087S2,"cold, non-Antarctic",IM497_00730,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M091S2,"cold, non-Antarctic",IM505_19175,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M080S2,"cold, non-Antarctic",IM493_11470,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M069S2,"cold, non-Antarctic",IM503_12870,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M064S2,"cold, non-Antarctic",IM498_09070,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M054S2,"cold, non-Antarctic",IM490_01835,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M061S2,"cold, non-Antarctic",IM475_08705,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M049S2,"cold, non-Antarctic",IM496_12145,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M046S2,"cold, non-Antarctic",IM501_04450,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M034S2,"cold, non-Antarctic",IM494_06750,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M025S2,"cold, non-Antarctic",IM488_04940,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M179S2,"cold, non-Antarctic",IM500_10325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M169S2,"cold, non-Antarctic",IM485_12725,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M162S2,"cold, non-Antarctic",IM463_20985,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M166S2,"cold, non-Antarctic",IM481_20160,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M015S2,"cold, non-Antarctic",IM473_07375,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M152S2,"cold, non-Antarctic",IM487_01545,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M151S2,"cold, non-Antarctic",IM484_04840,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M145S2,"cold, non-Antarctic",IM468_12800,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M155S2,"cold, non-Antarctic",IM465_04315,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M144S2,"cold, non-Antarctic",IM462_19245,PHY - HisKA - HATPase_c
+Microcystis sp. M125S2,"cold, non-Antarctic",IM480_04220,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M136S2,"cold, non-Antarctic",IM471_03425,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M135S2,"cold, non-Antarctic",IM474_12885,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M122S2,"cold, non-Antarctic",IM483_11060,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M113S2,"cold, non-Antarctic",IM460_14140,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M116S2,"cold, non-Antarctic",IM476_06425,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M112S2,"cold, non-Antarctic",IM458_05050,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M100S2,"cold, non-Antarctic",IM478_02240,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M085S1,"cold, non-Antarctic",IM459_02200,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M083S1,"cold, non-Antarctic",IM450_19815,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M065S1,"cold, non-Antarctic",IM449_01305,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M051S1,"cold, non-Antarctic",IM324_19150,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M048S1,"cold, non-Antarctic",IM333_06730,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M046S1,"cold, non-Antarctic",IM446_09960,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M045S1,"cold, non-Antarctic",IM325_11935,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M045S1,"cold, non-Antarctic",IM325_11935,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M043S1,"cold, non-Antarctic",IM330_11815,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M042S1,"cold, non-Antarctic",IM320_02850,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M039S1,"cold, non-Antarctic",IM335_00620,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M035S1,"cold, non-Antarctic",IM334_10680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M034S1,"cold, non-Antarctic",IM328_19485,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M011S1,"cold, non-Antarctic",IM332_00015,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M112S1,"cold, non-Antarctic",IM329_23260,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Antarctic,ECDMJLHF_00194,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Antarctic,ECDMJLHF_04645,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Antarctic,ECDMJLHF_05895,GAF - PHY - HisKA - HATPase_c
+Timeviella sp.,Antarctic,ECDMJLHF_12022,PAS_2 - GAF - PHY - HWE_HK - REC
+Synechococcus sp. SynAce01,Antarctic,BM449_RS05335,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Antarctic,CK510_RS13530,PHY - GAF - HisKA - HATPase_c
+Calothrix elsteri CCALA 953,Antarctic,CK510_RS07615,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidesmis priestleyi ULC007,Antarctic,C7B65_RS13745,GAF - PHY - HisKA - HATPase_c
+Stenomitos frigidus ULC18,Antarctic,C7B82_RS09300,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Argonema antarcticum A004/B2,Antarctic,LAY57_RS14245,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Argonema galeatum A003/A1,Antarctic,LAY41_RS31070,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Antarctic,ANSO36C_RS02045,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc cf. commune SO-36,Antarctic,ANSO36C_RS05140,GAF - PHY - HisKA
+Synechococcus sp. CS-602,Antarctic,KQ302_06835,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. CS-603,Antarctic,KQ299_09890,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. CS-601,Antarctic,KQ301_01835,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus vaginatus FGP-2,temperate,MicvaDRAFT_5199,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Microcoleus vaginatus FGP-2,temperate,MicvaDRAFT_0709,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus vaginatus FGP-2,temperate,MicvaDRAFT_2674,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Calothrix sp. PCC 7507,temperate,CAL7507_RS01415,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix sp. PCC 7507,temperate,CAL7507_RS02790,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Rivularia sp. PCC 7116,temperate,RIV7116_RS01430,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Rivularia sp. PCC 7116,temperate,RIV7116_RS20755,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Rivularia sp. PCC 7116,temperate,RIV7116_RS22670,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechococcus sp. PCC 7502,temperate,SYN7502_RS10620,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Stanieria cyanosphaera PCC 7437,temperate,STA7437_RS11470,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Stanieria cyanosphaera PCC 7437,temperate,STA7437_RS20620,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Xenococcus sp. PCC 7305,temperate,XEN7305_RS02070,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Xenococcus sp. PCC 7305,temperate,XEN7305_RS10310,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis sp. PCC 7509,temperate,SYN7509_RS0218575,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis sp. PCC 7509,temperate,SYN7509_RS0221105,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis sp. PCC 7509,temperate,SYN7509_RS0222345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena biceps PCC 7429,temperate,PSE7429_RS18655,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fortiea contorta PCC 7126,temperate,MIC7126_RS0117660,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodularia spumigena CCY9414,temperate,NSP_RS05530,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodularia spumigena CCY9414,temperate,NSP_RS17355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix sp. 336/3,temperate,IJ00_RS22555,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tolypothrix bouteillei VB521301,temperate,HC643_RS08265,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tolypothrix bouteillei VB521301,temperate,HC643_RS09570,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tolypothrix bouteillei VB521301,temperate,HC643_RS29345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tolypothrix bouteillei VB521301,temperate,HC643_RS34755,GAF - PHY - HATPase_c
+Tolypothrix bouteillei VB521301,temperate,HC643_RS40675,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Microcystis panniformis FACHB-1757,temperate,VL20_3329,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena sp. 'Roaring Creek',temperate,AC805_RS13840,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis aphanizomenoides BCCUSP55,temperate,A0J48_RS04060,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Sphaerospermopsis aphanizomenoides BCCUSP55,temperate,A0J48_RS24790,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis aphanizomenoides BCCUSP55,temperate,A0J48_RS13215,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis aphanizomenoides BCCUSP55,temperate,A0J48_RS13510,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodularia spumigena CENA596,temperate,A2T98_RS16970,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodularia spumigena CENA596,temperate,A2T98_RS19500,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Anabaena sp. AL93,temperate,AN486_15085,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Anabaena sp. AL93,temperate,AN486_17785,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Anabaena sp. WA113,temperate,AN488_04735,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium USR001,temperate,BCD67_08035,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Nostoc sp. MBR 210,temperate,BCD64_12355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. MBR 210,temperate,BCD64_13240,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Nostoc sp. MBR 210,temperate,BCD64_14380,GAF - PHY - HisKA - HATPase_c
+Nostoc sp. MBR 210,temperate,BCD64_14895,GAF - PHY - HisKA - HATPase_c
+Nostoc sp. MBR 210,temperate,BCD64_15490,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. MBR 210,temperate,BCD64_18600,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanobacterium sp. IPPAS B-1200,temperate,A5482_RS01570,PHY - HisKA - HATPase_c - Response_reg
+Moorena producens PAL-8-15-08-1,temperate,BJP34_RS15930,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium CG2_30_44_21,temperate,AUK48_10115,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Spirulina major PCC 6313,temperate,SPI6313_RS18720,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Roseofilum reptotaenium AO1-A,temperate,BI308_17345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Roseofilum reptotaenium AO1-A,temperate,BI308_22685,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella major NIES-592,temperate,NIES592_RS17680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella major NIES-592,temperate,NIES592_RS22705,GAF - PHY - PAS - HisKA - HATPase_c
+Fischerella major NIES-592,temperate,NIES592_RS10955,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa PCC 7806SL,temperate,BH695_RS05860,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Alkalinema sp. CACIAM 70d,temperate,B0A82_18635,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. RF31YmG,temperate,BV378_RS10695,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. RF31YmG,temperate,BV378_RS08675,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena sp. SR411,temperate,B9G53_RS21895,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena sp. SR411,temperate,B9G53_RS07935,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Nostoc sp. CENA543,temperate,CLI64_RS00015,GAF - PHY - HisKA - HATPase_c
+Nostoc sp. CENA543,temperate,CLI64_RS06400,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. CENA543,temperate,CLI64_RS09915,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Sj,temperate,MSj_RS17405,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Hapalosiphonaceae cyanobacterium JJU2,temperate,C6Y22_27985,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Hapalosiphonaceae cyanobacterium JJU2,temperate,C6Y22_21045,PAS_2 - GAF - PHY - HisKA
+Hapalosiphonaceae cyanobacterium JJU2,temperate,C6Y22_23980,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 43529,temperate,A6S26_23545,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 43529,temperate,A6S26_28735,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 43529,temperate,A6S26_08000,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc minutum NIES-26,temperate,A6770_19720,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc minutum NIES-26,temperate,A6770_19815,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc minutum NIES-26,temperate,A6770_25780,GAF - PHY - HisKA - HATPase_c
+Nostoc minutum NIES-26,temperate,A6770_27075,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 53789,temperate,A6V25_RS01305,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 53789,temperate,A6V25_RS14455,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 53789,temperate,A6V25_RS18515,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii TW10,temperate,DWQ51_12775,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa DA14,temperate,DWQ56_12015,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa DA14,temperate,DWQ56_14205,PAS_2 - GAF - PHY - HWE_HK - REC
+Microcystis flos-aquae TF09,temperate,DWQ54_25490,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium,temperate,EAZ87_08400,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium,temperate,EAZ87_14235,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ96_15100,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ96_16580,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ96_06825,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ94_26805,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ94_29515,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ94_03485,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ93_18650,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ93_27610,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ86_06225,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ86_25460,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ86_03500,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ83_26010,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ83_26540,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ83_15040,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ73_25610,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ73_27100,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ73_16835,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ19_04085,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ19_20180,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ19_20945,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ09_01065,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ09_19290,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ49_23725,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ49_28870,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ49_13110,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ28_28630,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ28_29810,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ28_30990,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ25_18420,PAS_2 - GAF - PHY - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ25_25125,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ25_14995,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ18_13650,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Oscillatoriales cyanobacterium,temperate,EAZ18_14295,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. SL48-SHIP,temperate,EYR95_02950,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. SL48-SHIP,temperate,EYR95_09415,GAF - PHY - HisKA - HATPase_c
+Planktothrix agardhii CCAP 1459/11A,temperate,FLZ02_RS26135,PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Planktothrix agardhii CCAP 1459/11A,temperate,FLZ02_RS15205,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis reniformis,temperate,FFR48_RS16060,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena sp. UWO310,temperate,PseudUWO310_RS10935,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pseudanabaena sp. UWO311,temperate,PseudUWO311_RS00745,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_OC_H_19870700_S124,temperate,EWV63_04650,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_OC_LR_19540900_S633,temperate,EWV62_02000,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_AC_P_19900807_S300,temperate,EWV61_18985,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_MB_F_20061100_S19D,temperate,EWV59_08830,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_MB_F_20061100_S19,temperate,EWV58_16555,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_MB_S_20031200_S102D,temperate,EWV79_17345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_MB_S_20031200_S102,temperate,EWV92_17340,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_MB_F_20061100_S20D,temperate,EWV78_21180,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa Ma_MB_F_20061100_S20,temperate,EWV50_14550,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis novacekii Mn_MB_F_20050700_S1,temperate,EWV76_23910,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis viridis Mv_BB_P_19951000_S69D,temperate,EWV46_03480,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis viridis Mv_BB_P_19951000_S68D,temperate,EWV77_18810,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis novacekii Mn_MB_F_20050700_S1D,temperate,EWV54_21085,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii Mw_MB_S_20031200_S109D,temperate,EWV88_02715,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis wesenbergii Mw_MB_S_20031200_S109,temperate,EWV41_13450,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis flos-aquae Mf_WU_F_19750830_S460,temperate,EWV40_05915,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_MB_F_20080800_S26D,temperate,EWV43_12050,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_GB_SS_20050300_S99D,temperate,EWV42_08045,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_MB_F_20080800_S26,temperate,EWV69_17785,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_MB_F_20051200_S9D,temperate,EWV86_21810,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_GB_SS_20050300_S99,temperate,EWV87_14465,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_MB_F_20051200_S9,temperate,EWV53_06325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_MB_F_20051200_S6D,temperate,EWV52_08325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis panniformis Mp_MB_F_20051200_S6,temperate,EWV51_02565,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Leptolyngbya sp. LCM1.Bin17,temperate,EA342_12340,GAF - PHY - PAS - HisKA - HATPase_c
+Gloeocapsa sp. DLM2.Bin57,temperate,EA365_11900,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Leptolyngbya sp. DLM2.Bin15,temperate,EA367_05725,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Leptolyngbya sp. DLM2.Bin15,temperate,EA367_04450,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Arthrospira sp. PLM2.Bin9,temperate,EA414_13125,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Dolichospermum sp. UHCC 0259,temperate,FJR05_RS01450,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0259,temperate,FJR05_RS13210,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0259,temperate,FJR05_RS06190,GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0299,temperate,FJR01_RS07130,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. UHCC 0260,temperate,FJR08_RS12590,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 53789,temperate,GJB62_RS00090,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 53789,temperate,GJB62_RS25005,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. ATCC 53789,temperate,GJB62_RS29155,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa L311-01,temperate,GPJ32_17125,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa L111-01,temperate,GPJ27_02260,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-09,temperate,GPJ08_16240,PHY - HisKA - HATPase_c
+Microcystis aeruginosa G13-03,temperate,GPJ04_05370,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa BK11-02,temperate,GPJ29_08580,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis sp. CACIAM 05,temperate,BWK47_RS12225,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIOASIH,temperate,F6J90_32995,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO3I5,temperate,F6K40_33735,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO3I5,temperate,F6K40_17325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIO3F7,temperate,F6K59_20200,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirulina sp. SIO3F2,temperate,F6J87_19120,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirulina sp. SIO3F2,temperate,F6J87_22895,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirulina sp. SIO3F2,temperate,F6J87_02660,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirulina sp. SIO3F2,temperate,F6J87_15925,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIO3A5,temperate,F6K02_04710,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIO3A2,temperate,F6K64_11240,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO2G4,temperate,F6K25_16480,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Symploca sp. SIO2E6,temperate,F6K47_18305,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO2B3,temperate,F6K15_12015,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO2B3,temperate,F6K15_05125,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO1I7,temperate,F6K01_06350,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO1I7,temperate,F6K01_15230,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO1H2,temperate,F6K05_26325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO1H4,temperate,F6K06_27870,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO1F9,temperate,F6K60_19170,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIO1F2,temperate,F6J94_13495,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis sp. SIO1G1,temperate,F6K61_03535,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis sp. SIO1G1,temperate,F6K61_06235,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Moorena sp. SIO1G6,temperate,F6K63_01585,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Kamptonema sp. SIO1D9,temperate,F6K45_02555,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Kamptonema sp. SIO1D9,temperate,F6K45_17435,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Moorena sp. SIO4G3,temperate,F6J99_31765,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIO3I8,temperate,F6K51_29570,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Moorena sp. SIO3E8,temperate,F6K46_21030,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO2C2,temperate,F6K18_17815,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Symploca sp. SIO2C1,temperate,F6K14_03350,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Symploca sp. SIO2E9,temperate,F6K58_18530,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Okeania sp. SIO2F5,temperate,F6K27_16145,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pleurocapsa sp. SU_5_0,temperate,HC939_05235,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirulinaceae cyanobacterium SM2_1_0,temperate,HC910_04425,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonema sp. RU_4_4,temperate,HC862_26520,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonema sp. RU_4_4,temperate,HC862_09685,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonema sp. RU_4_4,temperate,HC862_00055,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Richelia sp. RM1_1_1,temperate,HC815_18720,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Richelia sp. SL_2_1,temperate,HC874_02845,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Hydrococcus sp. CRU_1_1,temperate,HC763_20010,GAF - PHY - PAS - HisKA - HATPase_c
+Hydrococcus sp. CRU_1_1,temperate,HC763_23330,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix sp. CSU_2_0,temperate,HC785_12030,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Hyellaceae cyanobacterium CSU_1_1,temperate,HC775_12580,PAS_2 - PHY - HisKA - HATPase_c
+Hyellaceae cyanobacterium CSU_1_1,temperate,HC775_04280,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oxynema aestuarii AP17,temperate,HCG48_RS21115,GAF - PHY - HisKA - HATPase_c
+Oxynema aestuarii AP17,temperate,HCG48_RS21250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodosilinea sp. P-1105,temperate,E1H13_RS03995,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodosilinea sp. P-1105,temperate,E1H13_RS24845,GAF - PHY - PAS - HisKA - HATPase_c
+Fischerella sp.,temperate,HXY43_11995,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella sp.,temperate,HXY43_12645,GAF - PHY - PAS - HisKA - HATPase_c
+Fischerella sp.,temperate,HXY43_20430,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella sp.,temperate,HXY43_25025,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella sp.,temperate,HXY43_06275,GAF - PHY - HisKA - HATPase_c
+Fischerella sp.,temperate,HXY43_09535,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Limnospira indica BM01,temperate,H2674_27140,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Limnospira indica BM01,temperate,H2674_27140,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Sphaerospermopsis sp. LEGE 00249,temperate,H5968_RS03635,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Hormoscilla sp. SP12CHS1,temperate,GDA38_20490,PHY - HisKA - HATPase_c
+Limnospira fusiformis KN01,temperate,H4N54_RS23855,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Aphanizomenon flos-aquae Clear-A1,temperate,H9536_06750,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis aeruginosa PMC 728.11,temperate,INR81_22390,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 12450,temperate,IQ275_RS34370,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 12450,temperate,IQ275_RS10980,PAS_2 - GAF - PHY - HisKA
+Nostocales cyanobacterium LEGE 12452,temperate,IQ277_00370,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium LEGE 12452,temperate,IQ277_17085,GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium LEGE 12452,temperate,IQ277_00715,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium LEGE 12452,temperate,IQ277_29705,PAS_2 - GAF - PHY - HisKA
+Nostoc sp. LEGE 12447,temperate,IQ274_RS13760,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 12447,temperate,IQ274_RS15880,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 12447,temperate,IQ274_RS24680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 12447,temperate,IQ274_RS37795,PHY - HisKA - HATPase_c - Response_reg
+Nostocales cyanobacterium LEGE 11386,temperate,IQ243_24900,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium LEGE 11386,temperate,IQ243_09920,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostocales cyanobacterium LEGE 11386,temperate,IQ243_21180,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pleurocapsales cyanobacterium LEGE 10410,temperate,IQ255_11865,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis sp. LEGE 08334,temperate,IQ237_RS02890,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis sp. LEGE 08334,temperate,IQ237_RS03020,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tychonema sp. LEGE 07203,temperate,IQ252_RS22470,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Tychonema sp. LEGE 07203,temperate,IQ252_RS10550,PAS_2 - GAF - PHY - HATPase_c
+Tychonema sp. LEGE 07199,temperate,IQ269_RS03160,PAS_2 - GAF - PHY - HATPase_c
+Tychonema sp. LEGE 07199,temperate,IQ269_RS04945,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Tychonema sp. LEGE 07196,temperate,IQ245_RS10085,PAS_2 - GAF - PHY - HATPase_c
+Tychonema sp. LEGE 07196,temperate,IQ245_RS14515,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Nodosilinea sp. LEGE 07088,temperate,IQ254_RS14615,GAF - PHY - PAS - HisKA - HATPase_c
+Planktothrix mougeotii LEGE 06226,temperate,IQ236_RS10065,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Planktothrix mougeotii LEGE 06226,temperate,IQ236_RS03110,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tychonema sp. LEGE 06208,temperate,IQ263_RS12060,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Tychonema sp. LEGE 06208,temperate,IQ263_RS01845,PAS_2 - GAF - PHY - HATPase_c
+Nodosilinea sp. LEGE 06152,temperate,IQ265_RS13585,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pleurocapsales cyanobacterium LEGE 06147,temperate,IQ238_04495,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis salina LEGE 06099,temperate,IQ218_RS05090,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 06077,temperate,IQ244_RS06955,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 06077,temperate,IQ244_RS12540,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LEGE 06077,temperate,IQ244_RS12565,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Phormidium sp. LEGE 05292,temperate,IQ264_RS22910,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. LEGE 05292,temperate,IQ264_RS05130,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Phormidium sp. LEGE 05292,temperate,IQ264_RS24775,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. LEGE 05292,temperate,IQ264_RS10945,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis salina LEGE 00041,temperate,IQ221_RS08165,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis salina LEGE 00041,temperate,IQ221_RS08165,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis salina LEGE 00031,temperate,IQ217_RS11425,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Trichormus sp. M33_DOE_039,temperate,IGS40_15250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Trichormus sp. M33_DOE_039,temperate,IGS40_04920,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriophycideae cyanobacterium NC_groundwater_1537_Pr4_S-0.65um_50_18,temperate,HY785_08135,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Oscillatoriophycideae cyanobacterium NC_groundwater_1537_Pr4_S-0.65um_50_18,temperate,HY785_28655,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Oxynema sp. CENA135,temperate,JJD41_RS16580,GAF - PHY - HisKA - HATPase_c
+Oxynema sp. CENA135,temperate,JJD41_RS16715,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Geminocystis sp. GBBB08,temperate,FWJ34_04130,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. GBBB01,temperate,FWK04_13385,GAF - PHY - HisKA - HATPase_c
+Nostoc sp. GBBB01,temperate,FWK04_23490,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. GBBB01,temperate,FWK04_28145,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. GBBB01,temperate,FWK04_29115,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pantanalinema sp. GBBB05,temperate,FWK01_00345,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Pantanalinema sp. GBBB05,temperate,FWK01_00345,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Spirulina major CCY15215,temperate,JUI58_RS02545,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirulina major CCY15215,temperate,JUI58_RS03420,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Stigonema ocellatum SAG 48.90 = DSM 106950,temperate,DSM106950_03760,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Stigonema ocellatum SAG 48.90 = DSM 106950,temperate,DSM106950_34345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. NMS8,temperate,HWQ39_32250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LPT,temperate,HWQ58_17350,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. LPT,temperate,HWQ58_36710,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. UHCC 0702,temperate,JYQ62_RS08125,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. UHCC 0702,temperate,JYQ62_RS17075,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Leptolyngbya sp. UWPOB_LEPTO1,temperate,J0L70_20680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Leptolyngbya sp. UWPOB_LEPTO1,temperate,J0L70_05325,GAF - PHY - HisKA
+Dolichospermum sp. UKL201,temperate,HEP80_07905,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. LBC05a,temperate,HEQ29_04355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DL01,temperate,HEQ26_18775,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Aphanizomenon flos-aquae DEX188,temperate,HEQ12_18450,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Aphanizomenon flos-aquae KM1D3_PB,temperate,HEQ20_00935,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Aphanizomenon flos-aquae KM1D3_PB,temperate,HEQ20_12280,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Dolichospermum sp. DET69,temperate,EZY12_20710,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET69,temperate,EZY12_21330,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET73,temperate,HEQ25_00905,PHY - HisKA - HATPase_c
+Dolichospermum sp. DEX182a,temperate,HEQ10_11165,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DEX189,temperate,HEQ13_08980,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Dolichospermum sp. DEX189,temperate,HEQ13_12940,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanobacteria bacterium SID2,temperate,J7641_14635,GAF - PHY - HisKA - HATPase_c
+Cyanobacteria bacterium SID2,temperate,J7641_16085,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanobacteria bacterium SBC,temperate,J7642_24175,GAF - PHY - HisKA - HATPase_c
+Cyanobacteria bacterium SBC,temperate,J7642_20710,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Roseofilum sp. SBFL,temperate,J7545_18110,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Roseofilum sp. SBFL,temperate,J7545_04990,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Arthrospira sp. SH-MAG29,temperate,KFF72_20750,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Synechocystis sp. PCC 7338,temperate,HTZ78_RS10370,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET67,temperate,HCA27_20665,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET67,temperate,HCA27_21285,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET50,temperate,HCA25_21450,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET50,temperate,HCA25_22070,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET66,temperate,HCA26_21790,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. DET66,temperate,HCA26_22410,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Acaryochloris marina S15,temperate,I1H34_RS11585,PAS_2 - GAF - PHY - HWE_HK - Response_reg
+Dolichospermum sp. BR01,temperate,HEQ24_17545,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. OL01,temperate,HEQ30_04360,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. WA123,temperate,HEQ33_13845,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Rivularia sp. (in: Bacteria),temperate,KI793_01020,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Rivularia sp. (in: Bacteria),temperate,KI793_22435,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tildeniella torsiva UHER 1998/13D,temperate,KME14_06665,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Timaviella obliquedivisa GSE-PSE-MK23-08B,temperate,KME11_09430,GAF - PHY - HisKA - HATPase_c
+Timaviella obliquedivisa GSE-PSE-MK23-08B,temperate,KME11_19910,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Tildeniella nuda ZEHNDER 1965/U140,temperate,KME42_22045,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Trichormus sp. ATA11-4-KO1,temperate,KME59_01355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Trichormus sp. ATA11-4-KO1,temperate,KME59_07905,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Trichormus sp. ATA11-4-KO1,temperate,KME59_20965,GAF - PHY - HisKA - HATPase_c
+Trichormus sp. ATA11-4-KO1,temperate,KME59_21690,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Trichocoleus desertorum ATA4-8-CV12,temperate,KME12_26500,GAF - PHY - HisKA - HATPase_c
+Trichocoleus desertorum ATA4-8-CV12,temperate,KME12_06765,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Trichocoleus desertorum ATA4-8-CV12,temperate,KME12_11910,GAF - PHY - HisKA - HATPase_c
+Tolypothrix brevis GSE-NOS-MK-07-07A,temperate,KME54_11700,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Spirirestis rafaelensis WJT71-NPBG6,temperate,KME38_16205,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonematopsis contorta HA4267-MV1,temperate,KME64_13440,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonematopsis contorta HA4267-MV1,temperate,KME64_19385,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytolyngbya sp. HA4215-MV1,temperate,KME16_11345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytolyngbya sp. HA4215-MV1,temperate,KME16_12570,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonema hyalinum WJT4-NPBG1,temperate,KME57_11585,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonema hyalinum WJT4-NPBG1,temperate,KME57_12740,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Scytonema hyalinum WJT4-NPBG1,temperate,KME57_31630,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pleurocapsa minor HA4230-MV1,temperate,KME09_07925,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pleurocapsa minor HA4230-MV1,temperate,KME09_20370,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Pegethrix bostrychoides GSE-TBD4-15B,temperate,KME07_01795,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc indistinguendum CM1-VF10,temperate,KME55_18920,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc desertorum CM1-VF14,temperate,KME50_22485,GAF - PHY - HisKA - HATPase_c
+Nostoc desertorum CM1-VF14,temperate,KME50_00005,PHY - HisKA - HATPase_c
+Nostoc desertorum CM1-VF14,temperate,KME50_03075,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nodosilinea sp. WJT8-NPBG4,temperate,KME47_03925,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Myxacorys californica WJT36-NPBG1,temperate,KME13_15885,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Mojavia pulchra JT2-VF2,temperate,KME32_03105,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Mojavia pulchra JT2-VF2,temperate,KME32_15285,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus vaginatus WJT46-NPBG5,temperate,KME19_05940,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Komarekiella atlantica HA4396-MV6,temperate,KME40_18880,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Komarekiella atlantica HA4396-MV6,temperate,KME40_20680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Komarekiella atlantica HA4396-MV6,temperate,KME40_33270,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Iphinoe sp. HA4291-MV1,temperate,KME30_30655,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Kastovskya adunca ATA6-11-RM4,temperate,KME06_20525,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Goleter apudmare HA4340-LM2,temperate,KME23_05185,GAF - PHY - HisKA - HATPase_c
+Goleter apudmare HA4340-LM2,temperate,KME23_11830,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Goleter apudmare HA4340-LM2,temperate,KME23_24635,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Goleter apudmare HA4340-LM2,temperate,KME23_25375,GAF - PHY - HisKA - HATPase_c
+Goleter apudmare HA4340-LM2,temperate,KME23_28435,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Desmonostoc vinosum HA7617-LM4,temperate,KME21_03870,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Desmonostoc vinosum HA7617-LM4,temperate,KME21_28520,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanomargarita calcarea GSE-NOS-MK-12-04C,temperate,KME60_34730,GAF - PHY - HATPase_c
+Cyanomargarita calcarea GSE-NOS-MK-12-04C,temperate,KME60_27880,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanosarcina radialis HA8281-LM2,temperate,KME17_20605,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanosarcina radialis HA8281-LM2,temperate,KME17_26930,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Brasilonema octagenarum HA4186-MV1,temperate,KME49_20325,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Brasilonema octagenarum HA4186-MV1,temperate,KME49_20640,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Brasilonema octagenarum HA4186-MV1,temperate,KME49_23280,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix sp. FI2-JRJ7,temperate,KME29_20470,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Calothrix sp. FI2-JRJ7,temperate,KME29_39380,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Brasilonema angustatum HA4187-MV1,temperate,KME46_33225,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Brasilonema angustatum HA4187-MV1,temperate,KME46_09350,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Brasilonema angustatum HA4187-MV1,temperate,KME46_11050,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Aetokthonos hydrillicola CCALA 1050,temperate,KME33_33450,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Aetokthonos hydrillicola CCALA 1050,temperate,KME33_19380,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Aetokthonos hydrillicola CCALA 1050,temperate,KME33_19480,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Sphaerospermopsis torques-reginae ITEP-024,temperate,K2F26_RS11360,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Synechocystis sp. PCC 7339,temperate,IQE94_RS02460,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M62BS1,temperate,IM579_23965,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M61BS1,temperate,IM544_08885,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M59BS1,temperate,IM567_11990,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M63BS1,temperate,IM573_10910,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M60BS1,temperate,IM561_02700,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M53BS1,temperate,IM530_24850,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M54BS1,temperate,IM550_18480,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M55BS1,temperate,IM555_00165,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M57BS1,temperate,IM553_12695,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M51BS1,temperate,IM528_11200,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M44BS1,temperate,IM515_01685,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M43BS1,temperate,IM525_12755,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M42BS1,temperate,IM527_24710,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M41BS1,temperate,IM514_18315,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M38BS1,temperate,IM526_09915,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M40BS1,temperate,IM513_23515,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M39BS1,temperate,IM517_13640,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M34BS1,temperate,IM512_09960,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M29BS1,temperate,IM520_06785,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M29BS1,temperate,IM520_06785,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M26BS1,temperate,IM519_14910,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M27BS1,temperate,IM521_01840,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M25BS1,temperate,IM510_02440,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M19BS1,temperate,IM506_23035,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M31BS1,temperate,IM509_14810,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M20BS1,temperate,IM507_02425,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. M18BS1,temperate,IM523_07825,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. PBR-2020,temperate,JWS08_09295,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. PBR-2020,temperate,JWS08_15670,GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_38_RDM_U_B,temperate,JGK18_09215,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_38_RDM_U_B,temperate,JGK18_10750,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_38_RDM_U_B,temperate,JGK18_02850,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_37_MFU_D_B,temperate,JGK13_28530,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_37_MFU_D_B,temperate,JGK13_10200,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_37_MFU_D_B,temperate,JGK13_03890,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_36_ELK_O_B,temperate,JGK06_02015,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_36_ELK_O_B,temperate,JGK06_23605,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_36_ELK_O_B,temperate,JGK06_24660,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_40_RAT_O_B,temperate,JGK30_28655,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_40_RAT_O_B,temperate,JGK30_03190,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_40_RAT_O_B,temperate,JGK30_19445,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_39_LGB_O_B,temperate,JGK04_11875,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_39_LGB_O_B,temperate,JGK04_20515,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_39_LGB_O_B,temperate,JGK04_04540,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_35_SFW_U_B,temperate,JGK36_30050,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_35_SFW_U_B,temperate,JGK36_20770,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_35_SFW_U_B,temperate,JGK36_23795,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_34_RAT_O_A,temperate,JGK11_00345,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_34_RAT_O_A,temperate,JGK11_07900,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_34_RAT_O_A,temperate,JGK11_16565,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_31_RDM_U_A,temperate,JGK32_08515,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_31_RDM_U_A,temperate,JGK32_11120,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_31_RDM_U_A,temperate,JGK32_02615,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_33_LGB_O_A,temperate,JGK15_10815,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_33_LGB_O_A,temperate,JGK15_04670,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_33_LGB_O_A,temperate,JGK15_20245,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_32_RDM_D_A,temperate,JGK19_07555,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_32_RDM_D_A,temperate,JGK19_09810,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_32_RDM_D_A,temperate,JGK19_02320,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_30_WIL_O_A,temperate,JGK31_28655,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_30_WIL_O_A,temperate,JGK31_00955,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_30_WIL_O_A,temperate,JGK31_16610,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_29_MFU_D_A,temperate,JGK24_30045,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_29_MFU_D_A,temperate,JGK24_10810,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_29_MFU_D_A,temperate,JGK24_12155,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_28_MFU_U_A,temperate,JGK14_05165,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_28_MFU_U_A,temperate,JGK14_20430,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_28_MFU_U_A,temperate,JGK14_25950,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_27_LUM_O_A,temperate,JGK26_24530,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_27_LUM_O_A,temperate,JGK26_25990,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_27_LUM_O_A,temperate,JGK26_19360,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_26_ELK_O_A,temperate,JGK34_23680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_26_ELK_O_A,temperate,JGK34_24730,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_26_ELK_O_A,temperate,JGK34_04545,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_25_DOB_D_A,temperate,JGK03_27925,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_25_DOB_D_A,temperate,JGK03_19025,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_25_DOB_D_A,temperate,JGK03_26465,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_24_DOB_U_A,temperate,JGK07_28530,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_24_DOB_U_A,temperate,JGK07_16565,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_24_DOB_U_A,temperate,JGK07_26510,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_19_SFW_U_A,temperate,JGK23_24950,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_19_SFW_U_A,temperate,JGK23_26020,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_19_SFW_U_A,temperate,JGK23_19960,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_22_RUC_O_B,temperate,JGK21_00100,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_22_RUC_O_B,temperate,JGK21_26525,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_22_RUC_O_B,temperate,JGK21_15240,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_21_RUC_O_A,temperate,JGK40_26375,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_21_RUC_O_A,temperate,JGK40_15850,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_21_RUC_O_A,temperate,JGK40_04365,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_20_SFW_D_A,temperate,JGK27_30080,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_20_SFW_D_A,temperate,JGK27_22370,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_20_SFW_D_A,temperate,JGK27_24515,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_18_LLB_O_A,temperate,JGK25_28680,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_18_LLB_O_A,temperate,JGK25_30810,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_18_LLB_O_A,temperate,JGK25_23220,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_15_JOR_U_A,temperate,JGK38_14495,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_15_JOR_U_A,temperate,JGK38_02225,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_15_JOR_U_A,temperate,JGK38_22740,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_14_LAR_D_A,temperate,JGK09_03360,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_14_LAR_D_A,temperate,JGK09_15045,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_14_LAR_D_A,temperate,JGK09_21710,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_16_JOR_D_A,temperate,JGK35_08920,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_16_JOR_D_A,temperate,JGK35_18855,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_16_JOR_D_A,temperate,JGK35_24575,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_13_LAR_U_A,temperate,JGK10_03445,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_13_LAR_U_A,temperate,JGK10_15795,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_13_LAR_U_A,temperate,JGK10_22310,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_17_BER_D_A,temperate,JGK29_24370,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_17_BER_D_A,temperate,JGK29_28280,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_17_BER_D_A,temperate,JGK29_15150,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_12_PCY_D_A,temperate,JGK39_26680,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_12_PCY_D_A,temperate,JGK39_13995,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_12_PCY_D_A,temperate,JGK39_25220,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_11_PCY_U_A,temperate,JGK33_24775,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_11_PCY_U_A,temperate,JGK33_26575,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_11_PCY_U_A,temperate,JGK33_16035,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_09_SFU_O_A,temperate,JGK16_12250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_09_SFU_O_A,temperate,JGK16_20745,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_09_SFU_O_A,temperate,JGK16_05140,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_10_PVI_O_A,temperate,JGK17_04870,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_10_PVI_O_A,temperate,JGK17_26295,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_10_PVI_O_A,temperate,JGK17_24725,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_08_TRC_O_A,temperate,JGK22_29005,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_08_TRC_O_A,temperate,JGK22_15855,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_08_TRC_O_A,temperate,JGK22_26540,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_07_MST_O_A,temperate,JGK28_21330,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_07_MST_O_A,temperate,JGK28_26980,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_07_MST_O_A,temperate,JGK28_13885,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_05_CCC_O_A,temperate,JGK20_22220,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_05_CCC_O_A,temperate,JGK20_23385,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_05_CCC_O_A,temperate,JGK20_11060,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_02_FOX_O_A,temperate,JGK05_09375,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus sp. PH2017_02_FOX_O_A,temperate,JGK05_13745,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_02_FOX_O_A,temperate,JGK05_18240,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_01_SCD_O_A,temperate,JGK12_01645,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Microcoleus sp. PH2017_01_SCD_O_A,temperate,JGK12_19475,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus sp. PH2017_01_SCD_O_A,temperate,JGK12_19730,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Phormidium sp. BM_Day4_Bin.17,temperate,JJU32_08590,GAF - PHY - HisKA - HATPase_c
+Phormidium sp. BM_Day4_Bin.17,temperate,JJU32_13680,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcystis sp. 49638_E5,temperate,LW728_06425,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. UHCC 0870,temperate,L6494_RS00055,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Nostoc sp. UHCC 0870,temperate,L6494_RS16085,GAF - PHY - HisKA - HATPase_c
+Nostoc sp. UHCC 0870,temperate,L6494_RS25205,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Limnoraphis sp. WC205,temperate,KA714_15610,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Limnoraphis sp. WC205,temperate,KA714_21250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Limnoraphis sp. WC205,temperate,KA714_23455,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Cyanocohniella sp. LLY,temperate,MET45_15205,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanocohniella sp. LLY,temperate,MET45_06250,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanocohniella sp. LLY,temperate,MET45_09350,GAF - PHY - HisKA - HATPase_c
+Nodularia sphaerocarpa UHCC 0038,temperate,BDGGKGIB_RS14895,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Cyanobacteria bacterium,temperate,MH825_08825,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Microcoleus vaginatus HSN003,temperate,D0A37_RS18150,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Microcoleus vaginatus HSN003,temperate,D0A37_RS27035,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Microcoleus vaginatus HSN003,temperate,D0A37_RS27375,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus vaginatus PCC 9802,temperate,D0A34_RS03875,PAS_2 - GAF - PHY - HisKA - HATPase_c - Response_reg
+Microcoleus vaginatus PCC 9802,temperate,D0A34_RS05145,PAS_2 - GAF - PHY - HATPase_c
+Microcoleus vaginatus PCC 9802,temperate,D0A34_RS19495,PAS_2 - GAF - PHY - PAS_3 - PAS - PAS_4 - HisKA - HATPase_c
+Gloeotrichia echinulata DEX184,temperate,KA716_13850,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Gloeotrichia echinulata DEX184,temperate,KA716_14100,PAS_2 - GAF - PHY - PAS_3 - PAS - HisKA - HATPase_c
+Dolichospermum sp. OL03,temperate,HEQ31_04355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Dolichospermum sp. OL03,temperate,HEQ31_04355,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella sp. CENA71,temperate,NHB32_08285,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella sp. CENA71,temperate,NHB32_11645,PAS_2 - GAF - PHY - HisKA - HATPase_c
+Fischerella sp. CENA71,temperate,NHB32_30565,PAS_2 - GAF - PHY - HisKA - HATPase_c
