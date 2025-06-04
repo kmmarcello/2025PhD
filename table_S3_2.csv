@@ -1,3 +1,4 @@
+Table S3.2 TCS gene descriptions from P2RP.org  of cyanobacteria whole genomes sampled from cold-freezing environments,,,,,,
 genome,locus,index_locus,class,type,tm,p2rp_description
 GCA_009995885.1,GPJ22_00350,70,HK,Classic,0,"Histidine kinase, Classic contains 1 GAF,1 HisKA,1 HATPase_c"
 GCA_009995885.1,GPJ22_01150,228,RR,OmpR,0,"Response regulator, OmpR family contains 1 Response_reg,1 Trans_reg_C"

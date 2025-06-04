@@ -1,3 +1,4 @@
+Table S1.1 Metadata of cyanobacteria whole genomes sampled from temperate and cold-freezing environments,,,,,,,,,,
 accession,organism_name,country,isolation_source,genome_size,cell_type,gc_percentage,check_m_completeness,check_m_contamination,salt_fresh,temp_cat
 undocumented,Timeviella sp.,Antarctica,"purple mat, Lake Hoare, Antarctica",5311639,filament,48.87,98.82,0.86,fresh,cold-freezing
 GCA_000214075.2,Microcoleus vaginatus FGP-2,USA,desert soil crust,6698929,filament,46.0353678,99.67,0,soil,temperate
@@ -5,9 +6,9 @@ GCF_000230675.1,Synechococcus sp. WH 8016,USA,Woods Hole; MA,2694843,single,54.0
 GCF_000316575.1,Calothrix sp. PCC 7507,Switzerland,sphagnum bog,7023215,filament,42.24716173,99.11,0.44,fresh,temperate
 GCF_000316665.1,Rivularia sp. PCC 7116,USA,unialgal culture in marine water,8728773,filament,37.531621,99.78,1.22,salt,temperate
 GCF_000316685.1,Synechococcus sp. PCC 6312,USA,Fresh water; California; USA.; 1963,3720499,single,48.50470327,99.29,0,fresh,temperate
-GCF_000317085.1,Synechococcus sp. PCC 7502,Switzerland,sphagnum bog,3583735,single,40.6211396769013,99.76,0,mineral,temperate
+GCF_000317085.1,Synechococcus sp. PCC 7502,Switzerland,sphagnum bog,3583735,single,40.62113968,99.76,0,mineral,temperate
 GCF_000317575.1,Stanieria cyanosphaera PCC 7437,Cuba,Pool at botanical garden; Havana; Cuba,5544990,single,36.22323936,99.56,0.44,fresh,temperate
-GCF_000332055.1,Xenococcus sp. PCC 7305,USA,marine aquarium; La Jolla; CA,5929641,agregate,39.6782432645517,99.78,0.22,salt,temperate
+GCF_000332055.1,Xenococcus sp. PCC 7305,USA,marine aquarium; La Jolla; CA,5929641,agregate,39.67824326,99.78,0.22,salt,temperate
 GCF_000332075.2,Synechocystis sp. PCC 7509,Switzerland,rock scraping,4908825,single,41.67287199,99.67,0,stone,temperate
 GCF_000332215.1,Pseudanabaena biceps PCC 7429,Switzerland,Sphagnum bog; near Kastanienbaum; Vierwaldstattersee; Switzerland; 1972,5476421,filament,43.17816326,99.29,1.18,NA,temperate
 GCF_000332295.1,Fortiea contorta PCC 7126,USA,freshwater aquarium,5742264,filament,42.20327394,99.56,0.22,fresh,temperate
@@ -31,12 +32,12 @@ GCA_001672075.1,Anabaena sp. CRKS33,USA: Cheney Reservoir; WA,lake water,4950014
 GCA_001672085.1,Anabaena sp. AL93,USA: American Lake; WA,non-pure culture,5662506,filament,38.35625075,99.67,0.52,fresh,temperate
 GCA_001672095.1,Aphanizomenon flos-aquae MDT14a,USA: Upper Klamath Lake; OR,lake water,4632587,filament,37.11297813,99,1,fresh,temperate
 GCA_001672155.1,Anabaena sp. WA113,USA: Cranberry Lake; WA,lake water,4695440,filament,37.22055867,99.89,0.44,fresh,temperate
-GCA_001672165.1,Aphanizomenon flos-aquae LD13,USA: Upper Klamath Lake; OR,non-pure culture,4439448,filament,37.0527822377917,99.67,0.37,fresh,temperate
+GCA_001672165.1,Aphanizomenon flos-aquae LD13,USA: Upper Klamath Lake; OR,non-pure culture,4439448,filament,37.05278224,99.67,0.37,fresh,temperate
 GCA_001698425.1,Oscillatoriales cyanobacterium USR001,Singapore,co-culture originated from a tropical freshwater lake,5872787,filament,40.95585644,98.36,0.22,fresh,temperate
-GCA_001698435.1,Nostoc sp. MBR 210,Singapore,co-culture originated from a tropical freshwater lake,6931753,filament,40.5844209721889,99.66,0.56,fresh,temperate
+GCA_001698435.1,Nostoc sp. MBR 210,Singapore,co-culture originated from a tropical freshwater lake,6931753,filament,40.58442097,99.66,0.56,fresh,temperate
 GCA_001698445.1,Limnothrix sp. P13C2,Singapore,co-culture originated from a tropical freshwater lake,4583806,filament,55.28411164,99.37,0,fresh,temperate
 GCF_001712795.1,Nostoc sp. KVJ20,Norway: Troms; Kvaloya island,Symbiotic tissue of Blasia pusilla L.,9184886,filament,41.69293934,99.67,0.89,plant,cold-freezing
-GCF_001747005.1,Cyanobacterium sp. IPPAS B-1200,Kazakhstan: Lake Balkhash,lake water,3410249,NA,37.7256030278141,99.34,0,fresh,temperate
+GCF_001747005.1,Cyanobacterium sp. IPPAS B-1200,Kazakhstan: Lake Balkhash,lake water,3410249,NA,37.72560303,99.34,0,fresh,temperate
 GCF_001767235.1,Moorena producens PAL-8-15-08-1,Pacific Ocean: Palmyra Atoll,shallow tropical waters; normally from coral reef substrate,9708656,filament,43.51732424,99.26,1.37,salt,temperate
 GCF_001858025.1,Trichormus sp. NMC-1,China: Namucuo Lake; Namucuo County; Tibet,saltwater lake,5938148,filament,39.18528335,99,1.41,salt,cold-freezing
 GCA_001873365.1,Oscillatoriales cyanobacterium CG2_30_40_61,USA: Crystal Geyser near Green River; Utah,groundwater filtered through a 3.0 um filter,4818830,filament,39.83846031,99.02,0.11,fresh,temperate
@@ -51,7 +52,7 @@ GCF_001989435.1,Prochlorococcus sp. RS01,Saudi Arabia: central Red Sea,Surface w
 GCF_001989455.1,Prochlorococcus sp. RS04,Saudi Arabia: central Red Sea,Surface water sample from the central Red Sea,1656322,single,31.35980563,99.73,0.09,salt,temperate
 GCF_002095975.1,Microcystis aeruginosa PCC 7806SL,Netherlands,freshwater,5139339,single,42.08659907,99.67,1.45,fresh,temperate
 GCA_002148405.1,Alkalinema sp. CACIAM 70d,Brazil: Tucurui,non-axenic culture of unicellular cyanobacterium started from freshwater lake,6461029,filament,49.68089389,99.06,0.94,fresh,temperate
-GCF_002155185.1,Nostoc sp. RF31YmG,Mexico: Rayundo Flores; Tonala; Chiapas,coralloid roots,9205737,filament,41.9924199213669,99.11,2.61,plant,temperate
+GCF_002155185.1,Nostoc sp. RF31YmG,Mexico: Rayundo Flores; Tonala; Chiapas,coralloid roots,9205737,filament,41.99241992,99.11,2.61,plant,temperate
 GCF_002251945.1,Pseudanabaena sp. SR411,USA: Union County; Susquehanna River,water,5780027,filament,42.17058955,99.53,2.12,fresh,temperate
 GCF_002252625.1,Synechococcus sp. 1G10,Argentina: Nahuel Huapia,water,3340220,single,64.55595739,99.46,0.27,fresh,temperate
 GCF_002252635.1,Synechococcus sp. MW101C3,Austria: Lake Mondsee,water,3029138,single,66.13422696,100,0.41,fresh,temperate
@@ -84,7 +85,7 @@ GCA_003214815.1,Prochlorococcus sp. AG-412-J13,Atlantic Ocean,single cell amplif
 GCA_003215655.1,Prochlorococcus sp. AG-409-J16,Atlantic Ocean,single cell amplified by WGA-X; seawater,1843369,single,40.19802872,98.91,0,salt,temperate
 GCA_003216615.1,Prochlorococcus sp. AG-402-M15,Pacific Ocean,single cell amplified by WGA-X; seawater,1605846,single,31.00129153,97.28,0,salt,temperate
 GCA_003216775.1,Prochlorococcus sp. AG-402-K21,Pacific Ocean,single cell amplified by WGA-X; seawater,1635769,single,31.1756122,98.1,0.27,salt,temperate
-GCA_003242035.1,Leptolyngbya foveolarum,Antarctica,microbial mat ULC129,4750982,filament,51.0116677377547,98.64,0.77,NA,cold-freezing
+GCA_003242035.1,Leptolyngbya foveolarum,Antarctica,microbial mat ULC129,4750982,filament,51.01166774,98.64,0.77,NA,cold-freezing
 GCA_003242125.1,Phormidesmis priestleyi,Antarctica,microbial mat ULC007,5250385,filament,48.64067179,98.11,0,fresh,cold-freezing
 GCA_003248995.1,Cyanobium sp. GCA_003248995.1,Antarctica,microbial mat ULC082,2793401,single,65.28957696,97.74,0.27,NA,cold-freezing
 GCA_003249115.1,Cyanobium sp. GCA_003249115.1,Antarctica,microbial mat ULC084,2820113,single,65.44768171,98.55,0,NA,cold-freezing
@@ -118,7 +119,7 @@ GCA_004294345.1,Oscillatoriales cyanobacterium,USA: California; Eel River; South
 GCA_004294385.1,Oscillatoriales cyanobacterium,USA: California; Eel River; Elder Creek,microbial mat material,6033591,filament,44.27156359,98.58,0,fresh,temperate
 GCA_004299065.1,Phormidium sp. SL48-SHIP,Russia: Salt Lake 48; Novosibirsk region; Kulunda; Altai Krai,microbial mat of salt lake,4384607,filament,52.15209374,97.01,0.27,salt,temperate
 GCF_004332405.1,Synechococcus sp. BS56D,Bulgaria: Black Sea,Marine (Black Sea),2303823,single,61.22766376,99.46,0.54,salt,temperate
-GCF_004332415.1,Synechococcus sp. BS55D,Bulgaria: eastern Black Sea,Marine (Black Sea),2235215,single,61.6133123659245,99.18,0.27,salt,temperate
+GCF_004332415.1,Synechococcus sp. BS55D,Bulgaria: eastern Black Sea,Marine (Black Sea),2235215,single,61.61331237,99.18,0.27,salt,temperate
 GCF_005402765.1,Planktothrix agardhii CCAP 1459/11A,United Kingdom:Windermere Cumbria,water,5512454,filament,39.46032021,100,0.12,NA,temperate
 GCF_005402885.1,Sphaerospermopsis reniformis,Japan:Osaka; Fujiidera Fujiidera,pond water,6025023,filament,37.48447101,98.89,0.22,fresh,temperate
 GCA_005518205.2,Hormoscilla sp. GUM202,Guam: Anae Island Reef; Piti Bomb Holes,sponge tissue,6869623,filament,47.52360441,97.41,2,salt,temperate
@@ -163,7 +164,7 @@ GCA_007096715.1,Microcystis flos-aquae Mf_QC_C_20070823_S20D,Canada: Quebec; Cha
 GCA_007096765.1,Microcystis panniformis Mp_MB_F_20080800_S26D,Brazil: Minas Gerais; Furnas Lake,non-axenic culture from freshwater,4761960,single,42.33968786,98.79,0.58,fresh,temperate
 GCA_007096775.1,Microcystis panniformis Mp_GB_SS_20050300_S99D,Brazil: Goias-Brazil; Sao Simao Lake,non-axenic culture from freshwater,4755025,single,42.33193306,99.01,0.58,fresh,temperate
 GCA_007096785.1,Microcystis panniformis Mp_MB_F_20080800_S26,Brazil: Minas Gerais; Furnas Lake,non-axenic culture from freshwater,4645112,single,42.35075494,98.14,0.58,fresh,temperate
-GCA_007096805.1,Microcystis panniformis Mp_MB_F_20051200_S9D,Brazil: Minas Gerais; Furnas Lake,non-axenic culture from freshwater,4788160,single,42.3303105994787,98.79,0.58,fresh,temperate
+GCA_007096805.1,Microcystis panniformis Mp_MB_F_20051200_S9D,Brazil: Minas Gerais; Furnas Lake,non-axenic culture from freshwater,4788160,single,42.3303106,98.79,0.58,fresh,temperate
 GCA_007096815.1,Microcystis panniformis Mp_GB_SS_20050300_S99,Brazil: Goias-Brazil; Sao Simao Lake,non-axenic culture from freshwater,4622124,single,42.35269326,97.7,0.58,fresh,temperate
 GCA_007096865.1,Microcystis panniformis Mp_MB_F_20051200_S9,Brazil: Minas Gerais; Furnas Lake,non-axenic culture from freshwater,4507580,single,42.43682863,97.48,0.51,fresh,temperate
 GCA_007096895.1,Microcystis panniformis Mp_MB_F_20051200_S6D,Brazil: Minas Gerais; Furnas Lake,non-axenic culture from freshwater,4778625,single,42.33786916,99.01,0.58,fresh,temperate
@@ -201,14 +202,14 @@ GCA_009995855.1,Microcystis aeruginosa LL11-07,USA: Barry County; MI,Little Long
 GCA_009995885.1,Microcystis aeruginosa LL13-03,USA: Barry County; MI,Little Long Lake,5133314,single,42.45651933,98.79,0.91,fresh,cold-freezing
 GCA_009995895.1,Microcystis aeruginosa LL13-06,USA: Barry County; MI,Little Long Lake,4822445,single,42.39932067,98.72,0.29,fresh,cold-freezing
 GCA_009995925.1,Microcystis aeruginosa LG13-12,USA: Ingham County; MI,Lansing Lake,4984250,single,42.63158845,99.45,0.58,fresh,cold-freezing
-GCA_009995945.1,Microcystis aeruginosa LG13-11,USA: Ingham County; MI,Lansing Lake,5079950,single,42.7071150735429,99.67,0.62,fresh,cold-freezing
+GCA_009995945.1,Microcystis aeruginosa LG13-11,USA: Ingham County; MI,Lansing Lake,5079950,single,42.70711507,99.67,0.62,fresh,cold-freezing
 GCA_009995965.1,Microcystis aeruginosa LG11-05,USA: Ingham County; MI,Lansing Lake,5059631,single,42.73394009,99.38,0.29,fresh,cold-freezing
 GCA_009995985.1,Microcystis aeruginosa LG13-03,USA: Ingham County; MI,Lansing Lake,5040932,single,42.74490852,99.45,0.29,fresh,cold-freezing
 GCA_009995995.1,Microcystis aeruginosa LE13-04,USA: Calhoun County; MI,Lee Lake,5037574,single,42.46835428,99.67,0.22,fresh,cold-freezing
-GCA_009996025.1,Microcystis aeruginosa L311-01,USA: Ingham County; MI,MSU3 Lake,4768617,single,42.7031911493691,99.89,0.29,fresh,temperate
+GCA_009996025.1,Microcystis aeruginosa L311-01,USA: Ingham County; MI,MSU3 Lake,4768617,single,42.70319115,99.89,0.29,fresh,temperate
 GCA_009996045.1,Microcystis aeruginosa L211-101,USA: Ingham County; MI,MSU2 Lake,5104737,single,42.70029129,99.89,0.51,fresh,cold-freezing
 GCA_009996055.1,Microcystis aeruginosa L211-11,USA: Ingham County; MI,MSU2 Lake,5115307,single,42.69357572,99.89,0.51,fresh,cold-freezing
-GCA_009996085.1,Microcystis aeruginosa L211-07,USA: Ingham County; MI,MSU2 Lake,4934342,single,42.6865003760417,99.89,0.48,fresh,cold-freezing
+GCA_009996085.1,Microcystis aeruginosa L211-07,USA: Ingham County; MI,MSU2 Lake,4934342,single,42.68650038,99.89,0.48,fresh,cold-freezing
 GCA_009996095.1,Microcystis aeruginosa L111-01,USA: Ingham County; MI,MSU1 Lake,5012425,single,42.57774949,99.01,0.18,fresh,temperate
 GCA_009996105.1,Microcystis aeruginosa K13-10,USA: Oakland County; MI,Kent Lake,5313379,single,42.84883765,99.67,0.51,fresh,cold-freezing
 GCA_009996145.1,Microcystis aeruginosa K13-07,USA: Oakland County; MI,Kent Lake,4981878,single,42.54028879,99.67,0.4,fresh,cold-freezing
@@ -226,9 +227,9 @@ GCA_009996365.1,Microcystis aeruginosa G11-09,USA: Kalamazoo County; MI,Water Sa
 GCA_009996385.1,Microcystis aeruginosa G11-06,USA: Kalamazoo County; MI,Gull Lake,5135684,single,42.4328281,99.23,1.21,fresh,cold-freezing
 GCA_009996405.1,Microcystis aeruginosa G11-01,USA: Kalamazoo County; MI,Gull Lake,5239892,single,42.46858183,98.57,0.51,fresh,cold-freezing
 GCA_009996415.1,Microcystis aeruginosa BS13-10,USA: Allegan County; MI,Baseline Lake,5179655,single,42.42866525,99.89,0.15,fresh,cold-freezing
-GCA_009996445.1,Microcystis aeruginosa G11-04,USA: Kalamazoo County; MI,Gull Lake,5001263,single,42.5089187157049,98.79,0.15,fresh,cold-freezing
+GCA_009996445.1,Microcystis aeruginosa G11-04,USA: Kalamazoo County; MI,Gull Lake,5001263,single,42.50891872,98.79,0.15,fresh,cold-freezing
 GCA_009996455.1,Microcystis aeruginosa F13-15,USA: Washtenaw County; MI,Ford Lake,5435224,single,42.68542509,99.89,0.69,fresh,cold-freezing
-GCA_009996485.1,Microcystis aeruginosa BS13-02,USA: Allegan County; MI,Baseline Lake,4624404,single,42.3472500191921,99.67,0.37,fresh,cold-freezing
+GCA_009996485.1,Microcystis aeruginosa BS13-02,USA: Allegan County; MI,Baseline Lake,4624404,single,42.34725002,99.67,0.37,fresh,cold-freezing
 GCA_009996525.1,Microcystis aeruginosa BK11-02,USA: Barry County; MI,Baker Lake,4923799,single,42.65289385,99.45,0.29,fresh,temperate
 GCA_009996535.1,Microcystis aeruginosa BS11-05,USA: Allegan County; MI,Baseline Lake,4924915,single,42.50964436,99.23,0.07,fresh,cold-freezing
 GCF_010222815.1,Synechocystis sp. CACIAM 05,Brazil: Belem,freshwater lake,3580992,single,47.79850887,99.78,0,fresh,temperate
@@ -238,7 +239,7 @@ GCA_010672085.1,Okeania sp. SIO3I5,Panama: Portobelo,marine benthic turfs,105452
 GCA_010672105.1,Moorena sp. SIO3F7,Papua New Guinea: Hoia Bay,marine benthic turfs,8521894,filament,43.55300944,99.11,0.7,salt,temperate
 GCA_010672165.1,Spirulina sp. SIO3F2,American Samoa,marine benthic turfs,7298690,filament,49.18761908,98.93,2.47,salt,temperate
 GCA_010672205.1,Moorena sp. SIO3A5,Curacao: Netherland Anthilles,marine benthic turfs,8318518,filament,43.63685509,99.22,1.37,salt,temperate
-GCA_010672265.1,Moorena sp. SIO3A2,Northern Mariana Islands: Saipan,marine benthic turfs,8376638,filament,43.6053614557667,99.22,1.37,salt,temperate
+GCA_010672265.1,Moorena sp. SIO3A2,Northern Mariana Islands: Saipan,marine benthic turfs,8376638,filament,43.60536146,99.22,1.37,salt,temperate
 GCA_010672295.1,Okeania sp. SIO2G4,Palmyra Atoll,marine benthic turfs,8393698,filament,36.26635106,100,1.53,salt,temperate
 GCA_010672425.1,Symploca sp. SIO2E6,Papua New Guinea: Hoia Bay,marine benthic turfs,8963760,filament,43.50892698,98.89,2.97,salt,temperate
 GCA_010672525.1,Okeania sp. SIO2B3,Panama: Boco del Toro,marine benthic turfs,10005084,filament,36.55487321,99.89,1.82,salt,temperate
@@ -251,22 +252,22 @@ GCA_010672785.1,Sphaerospermopsis sp. SIO1G1,USA: Puerto Rico,marine benthic tur
 GCA_010672795.1,Moorena sp. SIO1G6,USA: Puerto Rico,marine benthic turfs,8303279,filament,43.57654915,99,1.67,salt,temperate
 GCA_010672865.1,Kamptonema sp. SIO1D9,China,marine benthic turfs,6162206,filament,41.33946931,99.22,1.81,salt,temperate
 GCA_010672965.1,Oscillatoria sp. SIO1A7,American Samoa,marine benthic turfs,9081372,filament,47.89633006,99.71,1.06,salt,temperate
-GCA_010692305.1,Moorena sp. SIO4G3,Guam: Apra Harbor,marine benthic turfs,9930682,filament,43.4812632581501,99.26,1.33,salt,temperate
+GCA_010692305.1,Moorena sp. SIO4G3,Guam: Apra Harbor,marine benthic turfs,9930682,filament,43.48126326,99.26,1.33,salt,temperate
 GCA_010692325.1,Moorena sp. SIO3I8,Papua New Guinea: Hoia Bay,marine benthic turfs,7992293,filament,43.63190719,99,1.37,salt,temperate
 GCA_010692445.1,Moorena sp. SIO3E8,Panama: Las Perlas,marine benthic turfs,8535497,filament,43.56569695,99.11,1.04,salt,temperate
 GCA_010692625.1,Okeania sp. SIO2C2,Panama: Boco del Toro,marine benthic turfs,8888403,filament,36.45443185,100,1.68,salt,temperate
-GCA_010692635.1,Symploca sp. SIO2C1,Panama: Boco del Toro,marine benthic turfs,8166785,filament,42.6992084894779,99.33,2.44,salt,temperate
+GCA_010692635.1,Symploca sp. SIO2C1,Panama: Boco del Toro,marine benthic turfs,8166785,filament,42.69920849,99.33,2.44,salt,temperate
 GCA_010692645.1,Symploca sp. SIO2E9,Papua New Guinea: Hoia Bay,marine benthic turfs,7745768,filament,43.17296352,99.26,2.09,salt,temperate
 GCA_010692685.1,Okeania sp. SIO2F5,Palmyra Atoll,marine benthic turfs,8413035,filament,36.2530869,100,1.53,salt,temperate
 GCF_011365345.1,Synechococcus sp. HB1133,Australia: Sydney; Freshwater Beach,coastal seawater,2378765,single,58.23660597,99.46,0,salt,temperate
 GCA_011390275.1,Geitlerinema sp. S16,China: Xiaochaidan Lake,Tibetan lacustrine sediment,4284252,filament,53.60630047,98.37,0.14,soil,temperate
-GCA_011390955.1,Oscillatoriales cyanobacterium,China: Tataling River,Tibetan lacustrine sediment,7119540,filament,43.7245945665029,98.34,0.33,fresh,temperate
+GCA_011390955.1,Oscillatoriales cyanobacterium,China: Tataling River,Tibetan lacustrine sediment,7119540,filament,43.72459457,98.34,0.33,fresh,temperate
 GCA_011391125.1,Synechococcales cyanobacterium S06,China: Tataling River,Tibetan lacustrine sediment,4814433,single,35.65419989,98.03,0.44,fresh,temperate
 GCA_011524395.1,Moorena sp. SS36440bin_2,Australia: Great Barrier Reef; Magnetic Island; Geoffrey Bay,coral reef macroalgae biofilm,7749996,filament,43.10354627,98.44,0.81,salt,temperate
 GCA_012030745.1,Oscillatoriales cyanobacterium SM2_3_0,South Africa: Schoenmakerskop,Stromatolite,5114543,filament,47.87053311,97.31,1.09,soil,temperate
 GCA_012030825.1,Pleurocapsa sp. SU_5_0,South Africa: Schoenmakerskop,Stromatolite,5166204,single,39.87662179,97.93,0.66,soil,temperate
 GCA_012031265.1,Spirulinaceae cyanobacterium SM2_1_0,South Africa: Schoenmakerskop,Stromatolite,5028328,filament,57.8160338,97.7,0.74,soil,temperate
-GCA_012031965.1,Scytonema sp. RU_4_4,South Africa: Cape Recife,Stromatolite,7329063,filament,42.5172904094289,99.15,0.48,soil,temperate
+GCA_012031965.1,Scytonema sp. RU_4_4,South Africa: Cape Recife,Stromatolite,7329063,filament,42.51729041,99.15,0.48,soil,temperate
 GCA_012032345.1,Leptolyngbyaceae cyanobacterium RM1_1_2,South Africa: Cape Recife,Stromatolite,4875230,filament,51.86497868,97.74,1.18,soil,temperate
 GCA_012032385.1,Richelia sp. RM1_1_1,South Africa: Cape Recife,Stromatolite,9611769,filament,37.42070731,98.89,1.89,soil,temperate
 GCA_012033205.1,Richelia sp. SL_2_1,South Africa: Schoenmakerskop,Stromatolite,7552247,filament,37.34530519,97.36,1.33,soil,temperate
@@ -278,7 +279,7 @@ GCA_012103655.1,Synechococcus sp. s2_metabat2_7,New Zealand: South Island; Marlb
 GCF_012295525.1,Oxynema aestuarii AP17,India: Sundarbans,mangrove intertidal soil surface,6357750,single,51.45252644,99.29,1.38,salt,temperate
 GCF_012911975.1,Nodosilinea sp. P-1105,Russia: Altai region; Klyuchevskoi district; Severka village; Cock Soda lake,Cock Soda lake; Kulunda Steppe,6012553,filament,55.05176739,98.55,2.45,mineral,temperate
 GCF_012933585.1,Prochlorococcus sp. P1361,Pacific Ocean: Station ALOHA; 100 km north of Oahu; HI; USA,base of a wide chlorophyll maximum feature; near the base of the euphotic zone,2512699,single,50.57040258,100,0.95,salt,temperate
-GCF_012933595.1,Prochlorococcus sp.P1363,Pacific Ocean: Station ALOHA; 100 km north of Oahu; HI; USA,base of a wide chlorophyll maximum feature; near the base of the euphotic zone,2558254,single,50.6015430836813,100,1.23,salt,temperate
+GCF_012933595.1,Prochlorococcus sp.P1363,Pacific Ocean: Station ALOHA; 100 km north of Oahu; HI; USA,base of a wide chlorophyll maximum feature; near the base of the euphotic zone,2558254,single,50.60154308,100,1.23,salt,temperate
 GCF_012933605.1,Prochlorococcus sp. P1344,Pacific Ocean: Station ALOHA; 100 km north of Oahu; HI; USA,base of a wide chlorophyll maximum feature; near the base of the euphotic zone,2472965,single,50.796837,100,0.41,salt,temperate
 GCA_013133755.1,Synechococcus sp. MIT S9220,Pacific Ocean: Equatorial Pacific,non-axenic culture originally inoculated with ocean water,2406645,single,56.42489856,99.73,0.27,salt,temperate
 GCA_013214565.1,Richelia sp.,Pacific Ocean: North Pacific Gyre; Station ALOHA,ocean water from marine abyssalpelagic zone,4618895,filament,39.06007822,99,0.22,salt,cold-freezing
@@ -293,14 +294,14 @@ GCF_014224355.1,Synechococcus sp. BSA11S,Bulgaria: Black Sea,marine water,288323
 GCA_014250495.1,Limnospira indica BM01,Tanzania: Arusha National Park; Big Momela Lake,saline lake water,6228153,filament,44.8040827,99.2,0.22,salt,temperate
 GCF_014279535.1,Synechococcus sp. TAK9802,Pacific Ocean,marine environment,2190394,single,60.76039288,100,0.27,salt,temperate
 GCF_014279555.1,Synechococcus sp. SYN20,North Sea,marine environment,2728628,single,53.42234266,99.46,0.54,salt,temperate
-GCA_014279575.1,Synechococcus sp. RS9915,Indian Ocean,marine environment,2417983,single,59.4981746806053,99.18,0,salt,temperate
+GCA_014279575.1,Synechococcus sp. RS9915,Indian Ocean,marine environment,2417983,single,59.49817468,99.18,0,salt,temperate
 GCF_014279595.1,Synechococcus sp. RS9909,Indian Ocean,marine environment,2603169,single,64.43991919,100,0,salt,temperate
 GCF_014279615.1,Synechococcus sp. RS9907,Indian Ocean,marine environment,2581635,single,60.35919098,99.73,0.27,salt,temperate
 GCF_014279635.1,Synechococcus sp. RS9902,Indian Ocean,marine environment,2481217,single,59.77357079,100,0.27,salt,temperate
 GCF_014279655.1,Synechococcus sp. ROS8604,Atlantic Ocean,marine environment,2876904,single,53.96374019,99.46,0,salt,temperate
 GCF_014279755.1,Synechococcus sp. PROS-U-1,Atlantic Ocean,marine environment,2576003,single,58.38114319,99.46,0.14,salt,temperate
 GCF_014279775.1,Synechococcus sp. PROS-9-1,Mediterranean Sea,marine environment,2273940,single,53.88822924,99.32,0,salt,temperate
-GCF_014279795.1,Synechococcus sp. PROS-7-1,Mediterranean Sea,marine environment,2565218,single,59.2675944110793,99.73,0.27,salt,temperate
+GCF_014279795.1,Synechococcus sp. PROS-7-1,Mediterranean Sea,marine environment,2565218,single,59.26759441,99.73,0.27,salt,temperate
 GCF_014279815.1,Synechococcus sp. NOUM97013,Pacific Ocean,marine environment,2552712,single,58.81779848,99.46,0.23,salt,temperate
 GCF_014279835.1,Synechococcus sp. MVIR-18-1,North Sea,marine environment,2451974,single,53.43466122,99.32,0,salt,temperate
 GCF_014279855.1,Synechococcus sp. Minos11,Mediterranean Sea,marine environment,2284343,single,60.46136679,99.64,0,salt,temperate
@@ -315,7 +316,7 @@ GCF_014304795.1,Synechococcus sp. WH 8101,Atlantic Ocean,marine environment,2623
 GCF_014304815.1,Synechococcus sp. MIT S9220,Pacific Ocean,marine environment,2424175,single,56.36977528,99.73,0.27,salt,temperate
 GCA_014324065.1,Hormoscilla sp. SP12CHS1,Guam: Anae Island reef,whole sponge tissue,4999041,filament,47.69122417,97.17,0.83,salt,temperate
 GCF_014489865.2,Limnospira fusiformis KN01,Tanzania: Singida; Lake Kindai,saline lake,5640992,filament,44.48830195,99.6,0.22,salt,temperate
-GCA_014654725.1,Vulcanococcus sp. Clear-D1,USA: Clear Lake; CA,Dolichospermum enrichment culture inoculated with lake water from cyanobacterial bloom,2960550,single,63.931084573416904,100,0.54,fresh,temperate
+GCA_014654725.1,Vulcanococcus sp. Clear-D1,USA: Clear Lake; CA,Dolichospermum enrichment culture inoculated with lake water from cyanobacterial bloom,2960550,single,63.93108457,100,0.54,fresh,temperate
 GCA_014654815.1,Aphanizomenon flos-aquae Clear-A1,USA: Clear Lake; CA,Aphanizomenon enrichment culture inoculated with lake water from cyanobacterial bloom,4442226,filament,37.14163892,99.89,0.22,fresh,temperate
 GCA_014946735.1,Microcystis aeruginosa PMC 728.11,France: Valence,Microcystis non-axenic culture inoculated from freshwater pond water,5535882,single,42.44006646,98.57,1.02,fresh,temperate
 GCF_015206895.1,Nostoc sp. LEGE 12450,Portugal: Tropical Botanical Garden of Lisbon,cycad coralloid root,8816581,filament,41.40261206,99.26,0.74,plant,temperate
@@ -332,12 +333,12 @@ GCA_015207365.1,filamentous cyanobacterium LEGE 07170,Portugal: Praia de Olhos d
 GCF_015207395.1,Nodosilinea sp. LEGE 07088,Portugal: Douro estuary; Porto,mesotidal zone; benthic,6690142,filament,55.48739556,99.18,2.45,salt,temperate
 GCF_015207425.1,Lusitaniella coriacea LEGE 07157,Portugal: Praia de Lavadores; Canidelo,tide pool; rock surface scraping,5864958,filament,47.07205867,99.44,1.15,NA,temperate
 GCF_015207485.1,Planktothrix mougeotii LEGE 06226,Portugal: wastewater treatment plant at Febros river; Vila Nova de Gaia,floating masses; from a secondary decanter tank bank,6226999,filament,39.42321173,99.24,0.98,waste,temperate
-GCF_015207505.1,Tychonema sp. LEGE 06208,Portugal: wastewater treatment plant at Febros river; Vila Nova de Gaia,biofilm; from a secondary decanter tank bank,6554502,filament,45.6739962853013,99.49,0.07,waste,temperate
+GCF_015207505.1,Tychonema sp. LEGE 06208,Portugal: wastewater treatment plant at Febros river; Vila Nova de Gaia,biofilm; from a secondary decanter tank bank,6554502,filament,45.67399629,99.49,0.07,waste,temperate
 GCF_015207525.1,Nodosilinea sp. LEGE 06152,Portugal: Praia de Lavadores; Canidelo,sea water sample; coastal; surf zone,6344577,filament,56.97318943,98.91,2.9,salt,temperate
 GCA_015207585.1,Pleurocapsales cyanobacterium LEGE 06147,Portugal: Praia de Moledo; Caminha,intertidal zone; wave-exposed rock surface scraping,6229790,single,41.60551403,99.78,1.97,salt,temperate
 GCF_015207645.1,Synechocystis salina LEGE 06099,Portugal: Praia de Moledo; Caminha,wave-exposed tide pool; rock surface scraping,3677085,single,48.24862629,99.27,0.55,salt,temperate
 GCF_015207705.1,Nostoc sp. LEGE 06077,Portugal: Minho estuary; Seixas,water sample; on the estuary shore,7337961,filament,40.58987231,99.26,0.44,salt,temperate
-GCF_015207735.1,Phormidium sp. LEGE 05292,Portugal: on an indoor aquarium wall; at Porto,biofilm,7498970,filament,40.3045484913261,98.81,1.11,fresh,temperate
+GCF_015207735.1,Phormidium sp. LEGE 05292,Portugal: on an indoor aquarium wall; at Porto,biofilm,7498970,filament,40.30454849,98.81,1.11,fresh,temperate
 GCF_015207935.1,Synechocystis salina LEGE 00041,Portugal: Praia de Espinho,sea water sample; intertidal zone; from a tide pool,3949467,single,48.17019613,99.78,0.22,salt,temperate
 GCF_015207985.1,Synechocystis salina LEGE 00031,Portugal: Praia de Moledo; Caminha,intertidal zone; Sabellaria alveolata reef,3969658,single,48.09996226,99.56,0.22,salt,temperate
 GCA_015295985.1,Synechococcus sp. M44_DOE_062,Canada: British Columbia,hot spring sediment,2925579,single,58.15450548,100,0,mineral,temperate
@@ -345,8 +346,8 @@ GCA_015296065.1,Oscillatoriaceae cyanobacterium M33_DOE_052,Canada: British Colu
 GCA_015296075.1,Leptolyngbyaceae cyanobacterium M33_DOE_097,Canada: British Columbia,hot spring sediment,6960501,filament,48.60822518,99.53,0.71,mineral,temperate
 GCA_015296085.1,Trichormus sp. M33_DOE_039,Canada: British Columbia,hot spring sediment,7018248,filament,40.86673768,99.33,0.44,mineral,temperate
 GCA_015708255.1,Planktothrix agardhii KL2,USA:Queens; New York; Kissena Lake,surface lake water freshwater algal bloom,4765279,filament,39.62644668,99.56,0.65,fresh,temperate
-GCA_015708265.1,Cylindrospermopsis raciborskii KL1,USA:Queens; New York; Kissena Lake,surface lake water freshwater algal bloom,3657391,filament,40.0723286933639,99.7,0.3,fresh,temperate
-GCF_015840335.1,Synechococcus sp. CBW1108,USA: Chesapeake Bay in Baltimore; Maryland,Chesapeake Bay,3226220,single,63.6933005188735,99.18,1.36,salt,temperate
+GCA_015708265.1,Cylindrospermopsis raciborskii KL1,USA:Queens; New York; Kissena Lake,surface lake water freshwater algal bloom,3657391,filament,40.07232869,99.7,0.3,fresh,temperate
+GCF_015840335.1,Synechococcus sp. CBW1108,USA: Chesapeake Bay in Baltimore; Maryland,Chesapeake Bay,3226220,single,63.69330052,99.18,1.36,salt,temperate
 GCF_015840525.1,Synechococcus sp. CBW1006,USA: Chesapeake Bay in Baltimore; Maryland,Chesapeake Bay,3860130,single,64.56878395,100,1.77,salt,temperate
 GCF_015840715.1,Synechococcus sp. CBW1004,USA: Chesapeake Bay in Baltimore; Maryland,Chesapeake Bay,3672318,single,67.0570468,99.73,0.27,salt,temperate
 GCF_015840915.1,Synechococcus sp. CBW1002,USA: Chesapeake Bay in Baltimore; Maryland,Chesapeake Bay,3854122,single,64.63710801,100,1.36,salt,temperate
@@ -372,11 +373,11 @@ GCA_017346855.1,Aphanizomenon flos-aquae DEX188,USA: Dexter Reservoir; Oregon,fr
 GCA_017346875.1,Aphanizomenon flos-aquae KM1D3_PB,Lithuania: Curonian Lagoon,unialgal non-axenic culture; originally established from brackish water collected from Curonian Lagoon Lithuania in 2012,6071322,filament,38.38564319,99.44,0.22,salt,temperate
 GCA_017355425.1,Dolichospermum sp. DET69,USA: Blowout Creek arm; Detroit Lake; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,6040057,filament,37.80434522,99.67,0,fresh,temperate
 GCA_017355625.1,Dolichospermum sp. DET73,USA: Heater Creek arm; Detroit Lake; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,5233469,filament,38.06473297,99.67,1.11,fresh,temperate
-GCA_017355645.1,Dolichospermum sp. DEX182a,USA: Dexter Reservoir; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,5014232,filament,38.2875981805389,98.22,1.11,fresh,temperate
+GCA_017355645.1,Dolichospermum sp. DEX182a,USA: Dexter Reservoir; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,5014232,filament,38.28759818,98.22,1.11,fresh,temperate
 GCA_017355655.1,Dolichospermum sp. DEX189,USA: Lookout Point Reservoir; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,6054507,filament,38.38689096,97.67,0.11,fresh,temperate
 GCA_017355665.1,Aphanizomenon flos-aquae CP01,USA: Crane Prairie Reservoir; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,4356503,filament,36.94695034,99.22,0.89,fresh,temperate
 GCA_017355725.1,Anabaena sp. 54,Finland: Lake Saaskjarvi,unialgal non-axenic culture; originally established from Lake Saaskjarvi; Finland in 1986,5567125,filament,38.33477783,98.33,0.19,fresh,cold-freezing
-GCA_017746755.1,Cyanobacteria bacterium SID2,Belize: Carrie Bow Cay,cyanobacterial mat on coral surface,5833092,NA,50.3135558293955,99.76,0.47,salt,temperate
+GCA_017746755.1,Cyanobacteria bacterium SID2,Belize: Carrie Bow Cay,cyanobacterial mat on coral surface,5833092,NA,50.31355583,99.76,0.47,salt,temperate
 GCA_017746765.1,Cyanobacteria bacterium SBC,USA: Fort Lauderdale; FL,cyanobacterial mat on coral surface,5873740,NA,50.38946225,98.82,0.47,salt,temperate
 GCA_017746885.1,Roseofilum sp. SBFL,USA: Fort Lauderdale; FL,cyanobacterial mat on coral surface,5300422,filament,45.0012848,97.78,0.22,salt,temperate
 GCA_017855335.1,Synechococcus sp. CPBay_Sum27G08_23,USA: Chesapeake Bay,Chesapeake Bay,2435328,single,55.11479357,98.06,0,salt,temperate
@@ -411,7 +412,7 @@ GCA_019358855.1,Timaviella obliquedivisa GSE-PSE-MK23-08B,USA: Grand Staircase E
 GCA_019358875.1,Symplocastrum torsivum CPER-KK1,USA: Central Plains Experimental Range; Colorado,short-grass prairie soil,7803281,filament,45.859261,99.11,1.44,soil,temperate
 GCA_019358895.1,Tildeniella nuda ZEHNDER 1965/U140,Switzerland: Stansstaad; Zurih,wet stone wall,6082730,filament,50.72834073,98.23,0.71,fresh,temperate
 GCA_019358915.1,Trichormus sp. ATA11-4-KO1,Chile: Atacama Desert; Tarapaca Region,soil; at the bottom of a wash with some plants,5970731,filament,41.69211442,99.33,0.44,soil,temperate
-GCA_019358945.1,Stenomitos rutilans HA7619-LM2,USA: Waikapalae cave; Hawaii,cave walls,7280192,filament,50.3437134625021,97.88,1.02,soil,temperate
+GCA_019358945.1,Stenomitos rutilans HA7619-LM2,USA: Waikapalae cave; Hawaii,cave walls,7280192,filament,50.34371346,97.88,1.02,soil,temperate
 GCA_019358975.1,Trichocoleus desertorum ATA4-8-CV12,Chile: Atacama Region; Atacama Desert,soil; soft; sandy surface with really good crust,6064330,filament,49.00815094,99.76,1.18,soil,temperate
 GCA_019358985.1,Tolypothrix brevis GSE-NOS-MK-07-07A,USA: Grand Staircase Escalante National Monument; Utah,wet rock wall; Lower Calf Creek Falls; Navajo sandstone,6520896,filament,41.16938838,99.52,0.48,fresh,temperate
 GCA_019359015.1,Spirirestis rafaelensis WJT71-NPBG6,USA: Pinto Wells; Joshua Tree National Park; Colorado Desert; CA,granitic soil,7071876,filament,42.02504399,98.8,0.74,soil,temperate
@@ -423,7 +424,7 @@ GCA_019359155.1,Pegethrix bostrychoides GSE-TBD4-15B,USA: Grand Staircase-escala
 GCA_019359165.1,Plectolyngbya sp. WJT66-NPBG17,USA: Mojave Desert; Joshua Tree National Park; California,well developed soil crust,6031298,filament,47.84295188,98.31,1.18,soil,temperate
 GCA_019359175.1,Phormidium tanganyikae FI6-MK23,USA: Fort Irwin; California,granitic soil; undisturbed desert,5741135,filament,47.78931344,98.55,0,soil,temperate
 GCA_019359215.1,Nostoc indistinguendum CM1-VF10,USA: Clark Mountains; San Bernardino; California,gravelly and rocky gypsiferous soil near a gypsum mine,8868606,filament,41.80766402,98.81,0.89,soil,temperate
-GCA_019359235.1,Oscillatoria princeps RMCB-10,Austria: Lower Austria; Lunzer Lake,blue-green mat floating on water surface of lake,8493665,filament,54.0966355513197,98.84,1.24,fresh,cold-freezing
+GCA_019359235.1,Oscillatoria princeps RMCB-10,Austria: Lower Austria; Lunzer Lake,blue-green mat floating on water surface of lake,8493665,filament,54.09663555,98.84,1.24,fresh,cold-freezing
 GCA_019359245.1,Nostoc desertorum CM1-VF14,USA: Clark Mountains; San Bernardino; California,rocky gypsiferous soil,8704112,filament,41.51794003,99.56,0.78,soil,temperate
 GCA_019359275.1,Myxacorys chilensis ATA2-1-KO14,Chile: Coquimbo Region; Atacama Desert,soil; very fine sand with crust,5876969,filament,48.19378833,97.05,0.71,soil,temperate
 GCA_019359285.1,Nodosilinea sp. WJT8-NPBG4,USA: Pinto Basin; Colorado Desert; California,soil; lower alluvial fan with plants; and algal crusts,5911223,filament,55.32680801,98.91,1.1,soil,temperate
@@ -431,20 +432,20 @@ GCA_019359315.1,Myxacorys californica WJT36-NPBG1,USA: California; Joshua Tree N
 GCA_019359325.1,Mojavia pulchra JT2-VF2,USA: Cadiz Valley; Joshua Tree National Park; CA,desert soil,8192881,single,41.58765396,99.11,0.85,soil,temperate
 GCA_019359355.1,Microcoleus vaginatus WJT46-NPBG5,USA: California; Joshua Tree National Park; Colorado Desert,sandy; gravelly soil,6457322,filament,46.39311777,99.56,0.58,soil,temperate
 GCA_019359375.1,Lyngbya sp. HA4199-MV5,USA: Ahupuaa O Kahana State Park; Hawaii,soil with bryophytes and blackish mats,6912620,filament,51.10081272,98.82,0.47,soil,temperate
-GCA_019359395.1,Komarekiella atlantica HA4396-MV6,USA: Theobald House; Kauai; HI,Cyanobacterial mat from puddle beside house,7783819,single,41.5373096419637,99.56,0.45,fresh,temperate
+GCA_019359395.1,Komarekiella atlantica HA4396-MV6,USA: Theobald House; Kauai; HI,Cyanobacterial mat from puddle beside house,7783819,single,41.53730964,99.56,0.45,fresh,temperate
 GCA_019359415.1,Iphinoe sp. HA4291-MV1,USA: Maunawili Falls; Hawaii,trail next to Maunawili Fall,7360925,NA,42.55584726,97.83,2.41,fresh,temperate
 GCA_019359445.1,Kastovskya adunca ATA6-11-RM4,Chile: Atacama Desert,soil and gravel on top; site at the top of the trail walking to the Pacific Ocean,5085095,filament,47.63220746,99.78,0,soil,temperate
 GCA_019359495.1,Goleter apudmare HA4340-LM2,USA: Maniniholo cave; Kauai; Hawaii,cave wall; scraping from roof of cave near entrance,6711310,NA,42.17598353,98.22,0.22,soil,temperate
 GCA_019359505.1,Drouetiella hepatica Uher 2000/2452,Slovakia: Slovak Paradise National Park; Hrabusice; Kosice Region,subaerial limestone,6416890,filament,50.14570921,99.29,0.84,mineral,temperate
 GCA_019359515.1,Desmonostoc vinosum HA7617-LM4,USA: Waikapalae cave; Hawaii,cave wall,7214837,filament,41.50663418,97.56,0.67,soil,temperate
 GCA_019359595.1,Cyanomargarita calcarea GSE-NOS-MK-12-04C,USA: Grand Staircase Escalante National Monument; Utah,wet limestone wall in the Sheep Creek Drainage,7921124,filament,41.45053152,99.76,1.02,fresh,temperate
-GCA_019359615.1,Cyanosarcina radialis HA8281-LM2,USA: Makauwahi cave; Hawaii,damp rock above a pool in the cave,6498097,agregate,46.4804542006683,99.93,1.93,fresh,temperate
+GCA_019359615.1,Cyanosarcina radialis HA8281-LM2,USA: Makauwahi cave; Hawaii,damp rock above a pool in the cave,6498097,agregate,46.4804542,99.93,1.93,fresh,temperate
 GCA_019359625.1,Brasilonema octagenarum HA4186-MV1,USA: Manoa Valley; Hawaii,wet wall collection from an east facing slope at the Manoa Valley overlook,8066605,filament,42.54879221,99.52,2.17,soil,temperate
 GCA_019359675.1,Calothrix sp. FI2-JRJ7,USA: Red Pass Lake area; Fort Irwin; California,granitic desert soil,8663394,filament,39.05961105,98.91,1.14,soil,temperate
 GCA_019359695.1,Brasilonema angustatum HA4187-MV1,USA: Manoa Valley; Honolulu; Hawaii,moss bank soil,8509522,filament,42.41204148,98.8,1.33,soil,temperate
 GCA_019359725.1,Aphanocapsa lilacina HA4352-LM1,USA: Maniniholo cave; near Haena; Kauai; HI,near cave entrance; scraping from roof of cave,4198540,single,62.40824191,97.44,1.28,soil,temperate
 GCA_019359745.1,Aphanothece saxicola GSE-SYN-MK-01-06B,USA: Grand Staircase Escalante National Monument; Utah,wet rock wall,3247837,single,67.80478823,99.73,0.41,fresh,temperate
-GCA_019359795.1,Aetokthonos hydrillicola CCALA 1050,USA: South Carolina,underside of aquatic plants in freshwater lake,9546647,filament,40.8117111693771,99.04,0.72,fresh,temperate
+GCA_019359795.1,Aetokthonos hydrillicola CCALA 1050,USA: South Carolina,underside of aquatic plants in freshwater lake,9546647,filament,40.81171117,99.04,0.72,fresh,temperate
 GCF_019598945.1,Sphaerospermopsis torques-reginae ITEP-024,Brazil: Tapacura reservoir; Pernambuco,fresh water [ENVO:00002011],5254542,filament,37.44995187,99.44,0,NA,temperate
 GCF_019924095.1,Synechocystis sp. PCC 7339,USA,Tidal pool,3876863,single,47.59773559,99.34,0.22,salt,temperate
 GCA_020244565.1,Microcystis sp. M62BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5236937,single,42.72388612,98.57,0.37,fresh,temperate
@@ -455,7 +456,7 @@ GCA_020244605.1,Microcystis sp. M60BS1,Brazil: Belo Horizonte;Pampulha lake,fres
 GCA_020244665.1,Microcystis sp. M53BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5316680,single,42.69440704,98.79,0.37,fresh,temperate
 GCA_020244685.1,Microcystis sp. M54BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5262926,single,42.60939637,99.23,0.8,fresh,temperate
 GCA_020244705.1,Microcystis sp. M55BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5284774,single,42.70322629,98.9,0.37,fresh,temperate
-GCA_020244715.1,Microcystis sp. M57BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5266927,single,42.6421326895171,99.01,0.58,fresh,temperate
+GCA_020244715.1,Microcystis sp. M57BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5266927,single,42.64213269,99.01,0.58,fresh,temperate
 GCA_020244765.1,Microcystis sp. M51BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5287563,single,42.68938261,99.01,0.37,fresh,temperate
 GCA_020244875.1,Microcystis sp. M44BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5276330,single,42.72496224,98.79,0.37,fresh,temperate
 GCA_020244895.1,Microcystis sp. M43BS1,Brazil: Belo Horizonte;Pampulha lake,freshwater surface (50 cm depth),5353253,single,42.67321197,99.01,0.37,fresh,temperate
@@ -528,7 +529,7 @@ GCA_020403945.1,Pseudanabaena sp. M125S2SP2A07QC,Canada: Quebec;Champlain Lake,M
 GCA_020404025.1,Pseudanabaena sp. M037S2SP2A07QC,Canada: Quebec;Champlain Lake,Microcystis colony from freshwater lake,4706602,filament,41.73718109,98.74,1.06,fresh,temperate
 GCA_020404045.1,Pseudanabaena sp. M151S2SP2A07QC,Canada: Quebec;Champlain Lake,Microcystis colony from freshwater lake,4808925,filament,41.71127643,99.29,1.06,fresh,temperate
 GCA_020404065.1,Pseudanabaena sp. M152S2SP2A07QC,Canada: Quebec;Champlain Lake,Microcystis colony from freshwater lake,4828984,filament,41.7084629,99.29,0.59,fresh,temperate
-GCA_020404085.1,Pseudanabaena sp. M065S1SP2A07QC,Canada: Quebec;Champlain Lake,Microcystis colony from freshwater lake,4748683,filament,41.7001935062837,99.06,1.18,fresh,temperate
+GCA_020404085.1,Pseudanabaena sp. M065S1SP2A07QC,Canada: Quebec;Champlain Lake,Microcystis colony from freshwater lake,4748683,filament,41.70019351,99.06,1.18,fresh,temperate
 GCA_020404105.1,Pseudanabaena sp. M53BS1SP1A06MG,Brazil: Belo Horizonte;Pampulha Lake,Microcystis colony from freshwater lake,4628989,filament,41.58778515,98.58,0.94,fresh,temperate
 GCA_020404895.1,Pseudanabaena sp. M085S1SP2A07QC,Canada: Quebec;Champlain Lake,Microcystis colony from freshwater lake,4808668,filament,41.71373445,99.06,2.12,fresh,temperate
 GCA_020404925.1,Pseudanabaena sp. M34BS1SP1A06MG,Brazil: Belo Horizonte;Pampulha Lake,Microcystis colony from freshwater lake,4650537,filament,41.54455711,97.88,0.71,fresh,temperate
@@ -551,9 +552,9 @@ GCA_020737775.1,Microcoleus sp. PH2017_37_MFU_D_B,USA: California; Eel River; Mi
 GCA_020737805.1,Microcoleus sp. PH2017_36_ELK_O_B,USA: California; Eel River; South Fork Eel River; near confluence with Elk Creek,river cyanobacterial mat,7742901,filament,45.35033629,99.82,0.23,fresh,temperate
 GCA_020737825.1,Microcoleus sp. PH2017_40_RAT_O_B,USA: California; Eel River; Rattlesnake Creek,river cyanobacterial mat,7528392,filament,45.40852304,99.93,0.01,fresh,temperate
 GCA_020737835.1,Microcoleus sp. PH2017_39_LGB_O_B,USA: California; Eel River; South Fork Eel River; near Leggett,river cyanobacterial mat,7232803,filament,45.43255206,99.93,0.01,fresh,temperate
-GCA_020737865.1,Microcoleus sp. PH2017_35_SFW_U_B,USA: California; Eel River; South Fork Eel River; downstream of confluence with Fox Creek,river cyanobacterial mat,7592293,filament,45.3532991307427,99.71,0.23,fresh,temperate
+GCA_020737865.1,Microcoleus sp. PH2017_35_SFW_U_B,USA: California; Eel River; South Fork Eel River; downstream of confluence with Fox Creek,river cyanobacterial mat,7592293,filament,45.35329913,99.71,0.23,fresh,temperate
 GCA_020737885.1,Microcoleus sp. PH2017_34_RAT_O_A,USA: California; Eel River; Rattlesnake Creek,river cyanobacterial mat,7467879,filament,45.41088962,99.49,0.23,fresh,temperate
-GCA_020737895.1,Microcoleus sp. PH2017_31_RDM_U_A,USA: California; Eel River; Red Mountain Creek,river cyanobacterial mat,7525651,filament,45.4123166687711,99.38,0.01,fresh,temperate
+GCA_020737895.1,Microcoleus sp. PH2017_31_RDM_U_A,USA: California; Eel River; Red Mountain Creek,river cyanobacterial mat,7525651,filament,45.41231667,99.38,0.01,fresh,temperate
 GCA_020737905.1,Microcoleus sp. PH2017_33_LGB_O_A,USA: California; Eel River; South Fork Eel River; near Leggett,river cyanobacterial mat,7238112,filament,45.42696673,99.93,0.01,fresh,temperate
 GCA_020737945.1,Microcoleus sp. PH2017_32_RDM_D_A,USA: California; Eel River; Red Mountain Creek,river cyanobacterial mat,7527500,filament,45.41583437,99.38,0.01,fresh,temperate
 GCA_020737965.1,Microcoleus sp. PH2017_30_WIL_O_A,USA: California; Eel River; Williams Creek,river cyanobacterial mat,7843309,filament,45.28711505,99.71,0.01,fresh,temperate
@@ -582,35 +583,35 @@ GCA_020738685.1,Microcoleus sp. PH2017_07_MST_O_A,USA: California; Eel River; Ma
 GCA_020738785.1,Microcoleus sp. PH2017_05_CCC_O_A,USA: California; Eel River; Cedar Creek,river cyanobacterial mat,7704613,filament,45.28836596,98.18,0.22,fresh,temperate
 GCA_020738905.1,Microcoleus sp. PH2017_02_FOX_O_A,USA: California; Eel River; Fox Creek,river cyanobacterial mat,7507973,filament,45.38749639,99.16,0.01,fresh,temperate
 GCA_020738945.1,Microcoleus sp. PH2017_01_SCD_O_A,USA: California; Eel River; South Fork Eel River; downstream of confluence with Cedar Creek,river cyanobacterial mat,7541616,filament,45.38042163,99.71,0.22,fresh,temperate
-GCA_020832215.1,Phormidium sp. BM_Day4_Bin.17,Canada: Calgary,bioreactors innoculated with microbial mats from alkaline soda lake,4707677,filament,51.8529839664021,99.18,0,salt,temperate
+GCA_020832215.1,Phormidium sp. BM_Day4_Bin.17,Canada: Calgary,bioreactors innoculated with microbial mats from alkaline soda lake,4707677,filament,51.85298397,99.18,0,salt,temperate
 GCA_020882985.1,Microcoleus sp. CAWBG52,New Zealand: Southland,cyanobacterial mat,7405970,filament,45.36503852,99.05,0.66,NA,temperate
 GCA_020883025.1,Microcoleus sp. CAWBG639,New Zealand: Wanaka,cyanobacterial mat,6496136,filament,44.56499979,99.49,0.51,fresh,cold-freezing
 GCA_020883045.1,Microcoleus sp. CAWBG58,New Zealand: Hawkes Bay,cyanobacterial mat,7451363,filament,45.26177023,97.96,0.66,salt,temperate
 GCA_020883095.1,Microcoleus sp. CAWBG50,New Zealand: Nelson,cyanobacterial mat,7356482,filament,45.30195024,97.99,0.63,NA,temperate
 GCA_020883115.1,Microcoleus sp. CAWBG556,New Zealand: Canterbury,cyanobacterial mat,7423145,filament,45.32451533,97.96,0.55,NA,temperate
 GCA_020883145.1,Microcoleus sp. CAWBG27,New Zealand: Wellington,cyanobacterial mat,7798074,filament,45.3355512,99.71,1.09,salt,temperate
-GCA_020883175.1,Microcoleus sp. CAWBG24,New Zealand: Canterbury,cyanobacterial mat,7395238,filament,45.3241482595655,97.3,0.55,NA,temperate
+GCA_020883175.1,Microcoleus sp. CAWBG24,New Zealand: Canterbury,cyanobacterial mat,7395238,filament,45.32414826,97.3,0.55,NA,temperate
 GCA_020905635.1,Microcystis aeruginosa NIBR18,South Korea: Haengju bridge,freshwater,5868528,single,42.66442965,99.89,0.29,fresh,temperate
-GCA_021297915.1,Anabaena sp. CoA2_C59,USA: Ohio; western Lake Erie; NOAA Station WE12,Phytoplankton seston > 100 micron diameter,4225696,filament,37.0274861229961,99.44,0.22,fresh,temperate
+GCA_021297915.1,Anabaena sp. CoA2_C59,USA: Ohio; western Lake Erie; NOAA Station WE12,Phytoplankton seston > 100 micron diameter,4225696,filament,37.02748612,99.44,0.22,fresh,temperate
 GCA_021298775.1,Pseudanabaena sp. CoA8_M7,USA: Ohio; western Lake Erie,Phytoplankton seston > 100 micron diameter,3826074,filament,41.85206559,98.35,0.71,fresh,temperate
 GCA_021300285.1,Microcystis sp. 49638_E5,USA: Ohio; western Lake Erie; NOAA Station WE12,lake water,4742130,single,42.76333368,98.79,0.29,fresh,temperate
 GCA_021300315.1,Anabaena sp. 49628_E55,USA: Ohio; western Lake Erie; NOAA Station WE12,lake water,4873444,filament,37.29182515,99.11,0.45,fresh,temperate
 GCA_021405265.1,Leptolyngbya sp. PL-A2,China: Beijing,sludge from two different bioreactors; each one run at a different temprature (R1 at 35 C; R2 at 25 C); artificial municipal wastewater,3188741,filament,68.86639586,97.66,0.57,waste water,temperate
-GCF_021533835.1,Synechococcus sp. Nb3U1,Japan: Nagano; Nakabusa,Section of microbial mat collected from hot spring water,3487976,single,55.1895766936669,98.25,0.88,salt,temperate
+GCF_021533835.1,Synechococcus sp. Nb3U1,Japan: Nagano; Nakabusa,Section of microbial mat collected from hot spring water,3487976,single,55.18957669,98.25,0.88,salt,temperate
 GCF_021554855.1,Planktothrix agardhii 1804,USA: Ohio; Lake Erie; Sandusky Bay,Freshwater,4869815,filament,39.63288133,100,0.55,fresh,temperate
 GCF_021554875.1,Planktothrix agardhii 1801,USA: Ohio; Lake Erie; Sandusky Bay,Freshwater,4856164,filament,39.66742062,99.78,0.44,fresh,temperate
-GCF_021554915.1,Planktothrix agardhii 1803,USA: Ohio; Lake Erie; Sandusky Bay,Freshwater,4991932,filament,39.6691902053153,99.78,2.95,fresh,temperate
+GCF_021554915.1,Planktothrix agardhii 1803,USA: Ohio; Lake Erie; Sandusky Bay,Freshwater,4991932,filament,39.66919021,99.78,2.95,fresh,temperate
 GCF_021554955.1,Planktothrix agardhii 1032,USA: Ohio; Lake Erie; Sandusky Bay,Freshwater,4991761,filament,39.56902183,100,0.56,fresh,temperate
 GCF_021554965.1,Planktothrix agardhii 1030,USA: Ohio; Lake Erie; Sandusky Bay,Freshwater,5113968,filament,39.59829236,99.78,0.34,fresh,temperate
-GCF_022063185.1,Nostoc sp. UHCC 0870,Finland: Varlaxudden; Baltic Sea,Brackish water; Varlaxudden; Baltic Sea,7172241,filament,40.9777501899337,99.55,0,salt,temperate
+GCF_022063185.1,Nostoc sp. UHCC 0870,Finland: Varlaxudden; Baltic Sea,Brackish water; Varlaxudden; Baltic Sea,7172241,filament,40.97775019,99.55,0,salt,temperate
 GCA_022184905.1,Limnoraphis sp. WC205,USA: Willow Creek Reservoir; Oregon,cyanobacterial bloom in freshwater lake,7364915,filament,41.79363917,99.56,0.22,fresh,temperate
 GCA_022241785.1,Cyanocohniella sp. LLY,Chile: Visviri; Atacama Desert,Llayta,6781030,filament,41.17526035,100,0.22,soil,temperate
 GCF_022376295.1,Nodularia sphaerocarpa UHCC 0038,Baltic Sea,Brackish water,5451672,filament,41.2658259,100,0.22,salt,temperate
-GCA_022402445.1,Cyanobacteria bacterium,USA: California; Castaic Lake,non-axenic enrichment culture inoculated with lake water,4077419,NA,61.8936751012223,99.46,0,fresh,temperate
+GCA_022402445.1,Cyanobacteria bacterium,USA: California; Castaic Lake,non-axenic enrichment culture inoculated with lake water,4077419,NA,61.8936751,99.46,0,fresh,temperate
 GCA_022402525.1,Thermosynechococcaceae cyanobacterium MS004,USA: California; Castaic Lake,non-axenic enrichment culture inoculated with lake water,4931563,single,50.95992844,99.06,0.47,fresh,temperate
 GCA_022448615.1,Trichodesmium sp. ALOHA_ZT_67,Pacific Ocean: North Pacific Gyre; Station ALOHA,HOE Legacy IIB net trap,6926000,filament,33.84618007,99.49,0.22,salt,temperate
 GCF_022701255.1,Microcoleus vaginatus HSN003,USA: Utah; Moab,Topsoil desert biocrust,6756317,filament,45.78754964,99.78,0.44,soil,temperate
-GCF_022701275.1,Microcoleus vaginatus PCC 9802,USA: Moab; Utah,Topsoil desert biocrust,6698371,filament,46.0327742371989,99.45,0,soil,temperate
+GCF_022701275.1,Microcoleus vaginatus PCC 9802,USA: Moab; Utah,Topsoil desert biocrust,6698371,filament,46.03277424,99.45,0,soil,temperate
 GCF_022984195.1,Synechococcus elongatus PCC 6301,USA: Texas; Austin; Waller Creek,ENVO:00002228,2749599,single,55.43750198,100,0,fresh,temperate
 GCF_023078835.1,Synechococcus sp. NB0720_010,USA: Rhode Island; Narragansett Bay,Narragansett Bay,2410448,single,63.11212687,100,0,salt,temperate
 GCF_023115425.1,Synechococcus sp. A10-1-5-1,China: the Yangtze River estuary,estuarine water,2404104,single,61.88925271,99.86,0.54,fresh,temperate
@@ -619,7 +620,7 @@ GCF_023333595.1,Argonema galeatum A003/A1,Antarctica,soil crust,6929784,filament
 GCF_023630635.1,Synechococcus sp. MU1651,Tasman Sea,seawater,2217880,single,60.69737768,99.46,0,salt,temperate
 GCA_023657325.1,Gloeotrichia echinulata DEX184,USA: Dexter Reservoir; Oregon,cyanobacterial bloom in freshwater lake,7282189,filament,41.8844526,99.33,1.33,fresh,temperate
 GCF_023734775.1,Nostoc cf. commune SO-36,Antarctica:Kuzira Misaki; Padda Island; Lutzow-Holm Bay,soil,7408262,filament,41.35519235,97.78,0.7,soil,cold-freezing
-GCA_024036375.1,Dolichospermum sp. OL03,USA: Shelter Cove; Odell Lake; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,5362622,filament,38.1759892828545,99.67,0.11,fresh,temperate
+GCA_024036375.1,Dolichospermum sp. OL03,USA: Shelter Cove; Odell Lake; Oregon,freshwater lake cyanobacterial bloom; sample filtered onto 1.2 um poresize filter,5362622,filament,38.17598928,99.67,0.11,fresh,temperate
 GCA_024239075.1,Fischerella sp. CENA71,Brazil: Amazon rainforest; Hatahara archaeological site,non-axenic culture of a cyanobacterium and its heterotrophs; obtained from an Amazon rainforest soil sample,7465651,filament,40.24876062,100,0.54,soil,temperate
 GCA_024320855.1,Planktothrix agardhii LY1,Ecuador: Ibarra;Laguna de Yahuarcocha,composite plankton tow from depth to surface (0-7 meters) lake water; freshwater algal bloom,4693391,filament,39.54106122,100,0.22,fresh,cold-freezing
 GCF_024345415.1,Synechococcus sp. Tobar12-5m-g,Spain: Lake El Tobar,freshwater,2951029,single,65.79711687,99.46,0.27,fresh,temperate
@@ -648,7 +649,7 @@ GCA_025127975.1,Synechococcus sp. CS-1331,Canada: Nunavut; Ellesmere Island; Lak
 GCA_025127995.1,Synechococcus sp. CS-1332,Canada: Nunavut; Ellesmere Island; Lake C3,freshwater,2973784,single,67.34974699,97.28,0.27,fresh,cold-freezing
 GCA_025128015.1,Synechococcus sp. CS-1333,Canada: Nunavut; Bylot Island; Tundra Pond,freshwater,2931480,single,66.26427607,98.64,0.27,fresh,cold-freezing
 GCA_025128025.1,Synechococcus sp. CS-1330,Canada: Northwest Territories; Eastern Beaufort Sea,freshwater,2513790,single,62.64827213,98.91,0.27,fresh,cold-freezing
-GCA_025128055.1,Synechococcus sp. CS-1329,Canada: Northwest Territories; Eastern Beaufort Sea,freshwater,2580734,single,67.187087084527107,99.46,0.27,fresh,cold-freezing
+GCA_025128055.1,Synechococcus sp. CS-1329,Canada: Northwest Territories; Eastern Beaufort Sea,freshwater,2580734,single,67.18708708,99.46,0.27,fresh,cold-freezing
 GCA_025128075.1,Synechococcus sp. CS-1327,Antarctica: South Shetland Islands; Midge Lake,freshwater,2806576,single,65.20664325,99.46,0.54,fresh,cold-freezing
 GCA_025128095.1,Synechococcus sp. CS-1328,Canada: Northwest Territories; Eastern Beaufort Sea,freshwater,3186583,single,65.9964294,97.28,1.09,fresh,cold-freezing
 GCA_025128115.1,Synechococcus sp. CS-1326,Antarctica: South Shetland Islands; Limnopolar Lake,freshwater,2829179,single,65.22553009,99.46,0.54,fresh,cold-freezing

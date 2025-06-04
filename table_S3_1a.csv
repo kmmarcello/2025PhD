@@ -1,3 +1,4 @@
+Table S3.1a TCS gene counts in cyanobacteria whole genomes sampled from temperate and cold-freezing environments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 accession,organism_name,organism_tidy_name,country,isolation_source,genome_size,cell_type,temp_cat,classic,hybrid,unorthodox,h_pt,his_ka,che_a,ntr_c,prr_a,omp_r,nar_l,cy_c_c,lyt_tr,spo0a,yes_n,che_b,rpf_g,che_v,rsb_u,ami_r_nas_r,ple_d_vie_a,ple_d,vie_a,cit_t,che_y,csr_a,ycb_b,pil_b,lys_r,ars_r,frz_z,sarp,mer_r,bet_r,alp_a,hxl_r,xre,che_c,trx_b,lmb_e,wca_a,pgl_z,vie_b,hal_x,icl_r,unclassified
 GCA_000214075.2,Microcoleus vaginatus FGP-2,Microcoleus_vaginatus_FGP_2,USA,desert soil crust,6698929,filament,temperate,105,69,5,3,1,3,0,0,12,8,8,0,0,0,1,0,0,2,0,4,3,2,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
 GCF_000230675.1,Synechococcus sp. WH 8016,Synechococcus_sp__WH_8016,USA,Woods Hole; MA,2694843,single,temperate,8,0,0,0,1,1,0,0,8,4,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

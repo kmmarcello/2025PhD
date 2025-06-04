@@ -1,3 +1,4 @@
+Table S3.5 HK domain architecture with corresponding categorical architecture of Antarctic cyanobacteria,,,,
 organism_name,categorized_architecture,type,locus,domain_architecture
 Nostoc cf. commune SO-36,Linker - Sensor - Transmitter - Transmitter,Classic,ANSO36C_RS21780,HAMP - PAS_4 - HisKA - HATPase_c
 Nostoc cf. commune SO-36,Linker - Sensor - Transmitter - Transmitter - Receiver,Hybrid,ANSO36C_RS27040,HAMP - PAS_4 - HisKA - HATPase_c - Response_reg
